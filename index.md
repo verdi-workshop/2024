@@ -1,17 +1,24 @@
 ---
 layout: home
 ---
-Component-based software development proposes sound engineering principles and
-techniques to cope with the complexity of present-day software
-systems. However, many challenging conceptual and technological issues remain
-in component-based software development theory and practice. Furthermore, the
-advent of service-oriented and cloud computing, cyber-physical systems, and
-the Internet of Things has brought to the fore new dimensions, such as quality
-of service and robustness to withstand faults, which require revisiting
-established concepts and developing new ones.
+# Welcome to FACS 2002!
 
-FACS 2019 is concerned with how formal methods can be applied to
-component-based software and system development. Formal methods have provided
-foundations for component-based software through research on mathematical
-models for components, composition and adaptation, and rigorous approaches to
-verification, deployment, testing, and certification.
+The 18th International Conference on Formal Aspects of Component Software will
+take place on 10-11 November 2022. FACS 2022 will be an online conference
+hosted by the University of Oslo, Norway.
+
+
+# Important dates
+- Abstract submission: 24 Jun 2022
+- Paper submission 4 Jul 2022
+- Paper notification: 5 Sep 2022
+- Camera ready: 26 Sep 2022
+
+# About FACS
+
+The Formal Aspects of Component Software (FACS) conference series targets
+research in formal approaches for distributed components and services. The
+conferences cover topics including models, languages, analysis and
+verification techniques for component-based systems such as service-oriented
+architecture, cloud and edge computing, safety-critical, hybrid and cyber
+physical systems, etc.
