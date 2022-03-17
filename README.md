@@ -1,11 +1,17 @@
 # FACS2022
-Website of the FACS2022 conference
+
+Website of the FACS2022 conference.
+
+The documentation for the theme is at
+https://github.com/DigitaleGesellschaft/jekyll-theme-conference
+
+The documentation for the deployment process is at
+https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/
 
 To run the website locally, see https://jekyllrb.com/docs/
 
     gem install jekyll bundler # run this one time
     bundle add webrick # ditto, for ruby 3.0 or higher
-    bundle add leaflet
     bundle exec jekyll serve --livereload # to start jekyll
     
 When jekyll is running, open http://localhost:4000 to see the website.

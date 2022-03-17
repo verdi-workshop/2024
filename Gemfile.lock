@@ -63,6 +63,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  ruby
   universal-darwin-21
 
 DEPENDENCIES
@@ -74,6 +75,9 @@ DEPENDENCIES
   tzinfo-data
   wdm (~> 0.1.1)
   webrick (~> 1.7)
+
+RUBY VERSION
+   ruby 2.7.5p203
 
 BUNDLED WITH
    2.3.9

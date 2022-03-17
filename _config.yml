@@ -2,8 +2,8 @@ title: FACS 2022
 preposition: at
 description: >-
   17th International Conference on Formal Aspects of Component Software, 23-25 October 2022, Oslo, Norway (online)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/FACS2022" # the subpath of your site, e.g. /blog
+url: "https://facs-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
