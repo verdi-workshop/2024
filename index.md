@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome to FACS 2002!
+# Welcome to FACS 2022!
 
 The 18th International Conference on Formal Aspects of Component Software will
 take place on 10-11 November 2022. FACS 2022 will be an online conference
