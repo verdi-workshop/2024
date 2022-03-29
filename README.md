@@ -5,6 +5,11 @@ Website of the FACS2022 conference.
 The documentation for the theme is at
 https://github.com/DigitaleGesellschaft/jekyll-theme-conference
 
+To add a new page type, add a template to the `_layouts/` subdirectory.  To
+modify an existing page template, copy it from
+https://github.com/DigitaleGesellschaft/jekyll-theme-conference/tree/main/_layouts
+into `_layouts/`.
+
 The documentation for the deployment process is at
 https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/
 
