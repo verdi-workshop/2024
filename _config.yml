@@ -73,6 +73,8 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: Committees
+        relative_url: /committees/
       - name: Past Editions
         relative_url: /past-editions/
 
