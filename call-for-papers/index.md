@@ -60,10 +60,10 @@ welcomes contributions including but not limited to:
 
 We solicit high-quality submissions reporting on:
 
-  A - full papers: original research, applications and experiences, or surveys 
+  - __A__ - full papers: original research, applications and experiences, or surveys 
     16 pages);
-  B - short papers over tools and demonstrations (6 pages);
-  C - journal-first papers (4 pages).
+  - __B__ - short papers over tools and demonstrations (6 pages);
+  - __C__ - journal-first papers (4 pages).
 
 The page limit excludes references and appendices. Papers should be prepared in
 LaTeX, adhering to the Springer LNCS format and Guidelines.For further information
