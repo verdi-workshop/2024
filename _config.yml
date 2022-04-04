@@ -65,6 +65,8 @@ conference:
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
     links:
+      - name: Call for Papers
+        relative_url: /call-for-papers/
       - name: Program
         relative_url: /program/
       - name: Talks
