@@ -13,7 +13,7 @@ title: "Call for Papers"
 
 # Follow Us
 
-  All updates on http://twitter.com/facs_conf.
+  All updates on [twitter.com/facs_conf](https://twitter.com/facs_conf){:target="_blank"}
 
 # Invited Speakers
 
@@ -65,15 +65,14 @@ We solicit high-quality submissions reporting on:
   - __B__ - short papers over tools and demonstrations (6 pages);
   - __C__ - journal-first papers (4 pages).
 
-The page limit excludes references and appendices. Papers should be prepared in
-LaTeX, adhering to the Springer LNCS format and Guidelines.For further information
-please visit
-
- - http://www.springer.com/lncs.
+The page limit excludes references and appendices. Papers should be prepared
+in LaTeX, adhering to the Springer LNCS format and Guidelines. For further
+information please visit the LNCS page at
+[https://www.springer.com/lncs](https://www.springer.com/lncs){:target="_blank"}.
 
 Please use the easychair link below to submit your paper:
   
- - https://easychair.org/conferences/?conf=facs2022
+[https://easychair.org/conferences/?conf=facs2022](https://easychair.org/conferences/?conf=facs2022){:target="_blank"}
 
 
 ### Full and tool/short publications
@@ -91,5 +90,6 @@ Submissions in category C/E must be 4-page abstracts of journal papers published
  - It is recent: only journal papers available after January 1st, 2021 (online or paper) can be presented.
  - It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
  - It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
- - Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).
+
+Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).
 
