@@ -90,25 +90,26 @@ conference:
   main:
     # logo:
     #   img: ''
-    links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+    # # Footer
+    # links:
+    #   - name: Program
+    #     relative_url: /program/
+    #   - name: How to get there
+    #     relative_url: /location/
+    #   - name: Tickets
+    #     disabled: true
+    #     absolute_url: ''
 
-  # Information boxes
-  info_bars:
-    - title: Welcome to the draft website for FACS 2022!
-      color: primary
-      main_only: true
-      text: |
-        Most parts of this website are under construction; Call for Papers and schedule will be added later.
-    - text: These pages are still unfinished but will be updated in due time.
-      color: warning
-      pages_only: true
+  # # Information boxes
+  # info_bars:
+  #   - title: Welcome to the draft website for FACS 2022!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       Most parts of this website are under construction; Call for Papers and schedule will be added later.
+  #   - text: These pages are still unfinished but will be updated in due time.
+  #     color: warning
+  #     pages_only: true
 
   # Live indications
   live:
