@@ -1,5 +1,5 @@
 ---
-name: Room A
+name: Zoom
 ---
 
-A short way description on how to find the room
+The zoom link will be published here.

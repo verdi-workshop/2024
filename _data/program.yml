@@ -1,25 +1,41 @@
+# For each talk, add a file in `_talks/`
+# For each speaker, add a file in `_speakers/`
+# For each room, add a file in `_rooms/`
 days:
-- name: Monday
-  abbr: Mo
-  date: 2020-01-31
-  rooms:
-  - name: Room A
-    talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
-
-  - name: Room B
-    talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+  - name: Thursday
+    abbr: Thu
+    date: 2022-11-10
+    rooms:
+      - name: Zoom
+        talks:
+          - name: Talk 1
+            time_start: '13:00'
+            time_end: '13:30'
+          - name: Talk 2
+            time_start: '13:30'
+            time_end: '14:00'
+          - name: Talk 3
+            time_start: '14:00'
+            time_end: '14:30'
+          - name: Talk 4
+            time_start: '14:30'
+            time_end: '15:00'
+  - name: Friday
+    abbr: Fri
+    date: 2022-11-11
+    rooms:
+      - name: Zoom
+        talks:
+          - name: Talk 5
+            time_start: '13:00'
+            time_end: '13:30'
+          - name: Talk 6
+            time_start: '13:30'
+            time_end: '14:00'
+          - name: Talk 7
+            time_start: '14:00'
+            time_end: '14:30'
+          - name: Talk 8
+            time_start: '14:30'
+            time_end: '15:00'
+          
