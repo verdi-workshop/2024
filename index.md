@@ -10,10 +10,10 @@ hosted by the University of Oslo, Norway.
  -->
 
 # Important dates
-- Abstract submission: 24 Jun 2022
-- Paper submission 4 Jul 2022
-- Paper notification: 5 Sep 2022
-- Camera ready: 26 Sep 2022
+- Abstract submission: 24 Jun 2022 (AoE)
+- Paper submission 4 Jul 2022 (AoE)
+- Paper notification: 5 Sep 2022 (AoE)
+- Camera ready: 26 Sep 2022 (AoE)
 
 # About FACS
 
