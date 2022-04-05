@@ -31,7 +31,7 @@ verification techniques for component-based systems such as service-oriented
 architecture, cloud and edge computing, safety-critical, hybrid and cyber
 physical systems, etc.
 
-# Past Editions
+## Past Editions
 
 - [FACS 2019](http://facs2019.org/){:target="_blank"}, Amsterdam, Netherlands, October 23-25, 2019
 - [FACS 2018](http://sevlab.postech.ac.kr/facs18/){:target="_blank"}, Pohang, Korea, October 10-12, 2018
