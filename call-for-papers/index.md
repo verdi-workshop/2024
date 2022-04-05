@@ -62,7 +62,7 @@ We solicit high-quality submissions reporting on:
 
   - __A__ - full papers: original research, applications and experiences, or surveys 
     (16 pages);
-  - __B__ - short papers over tools and demonstrations (6 pages);
+  - __B__ - short papers: tools and demonstrations (6 pages);
   - __C__ - journal-first papers (4 pages).
 
 The page limit excludes references and appendices. Papers should be prepared
