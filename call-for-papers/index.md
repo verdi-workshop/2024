@@ -61,7 +61,7 @@ welcomes contributions including but not limited to:
 We solicit high-quality submissions reporting on:
 
   - __A__ - full papers: original research, applications and experiences, or surveys 
-    16 pages);
+    (16 pages);
   - __B__ - short papers over tools and demonstrations (6 pages);
   - __C__ - journal-first papers (4 pages).
 
@@ -72,22 +72,22 @@ information please visit the LNCS page at
 
 Please use the easychair link below to submit your paper:
   
-[https://easychair.org/conferences/?conf=facs2022](https://easychair.org/conferences/?conf=facs2022){:target="_blank"}
+- [https://easychair.org/conferences/?conf=facs2022](https://easychair.org/conferences/?conf=facs2022){:target="_blank"}
 
 
-### Full and tool/short publications
+### Full and tool/short publications (A, B)
 
-All submissions except category C/E must be original, unpublished, and not
+All submissions in categories __A__ and __B__ must be original, unpublished, and not
 submitted concurrently for publication elsewhere. All accepted papers from all
-categories will appear in the proceedings of the conference. A special issue is planned
-for extended versions of selected papers from FACS 2022.
+categories will appear in the proceedings of the conference. A special journal
+issue is planned for extended versions of selected papers from FACS 2022.
 
-### Journal-first publications:
+### Journal-first publications (C)
 
-Submissions in category C/E must be 4-page abstracts of journal papers published after January 1st, 2021. Authors of published papers in high-quality journals can submit a proposal to present their journal paper at FACS. The journal paper must adhere to the following criteria:
+Submissions in category __C__ must be 4-page abstracts of journal papers published after January 1st, 2021. Authors of published papers in high-quality journals can submit a proposal to present their journal paper at FACS. The journal paper must adhere to the following criteria:
 
  - It is clearly in the scope of FACS.
- - It is recent: only journal papers available after January 1st, 2021 (online or paper) can be presented.
+ - It is recent: only journal papers available after January 1st, 2021 (online or printed) can be presented.
  - It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
  - It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
 
