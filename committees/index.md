@@ -46,7 +46,7 @@ title: "Committees"
  - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), CMU, USA
  - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto & INESC TEC, Portugal
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes, France
- - [Luís Soares Barbosa](https://unu.edu/experts/luis-soares-barbosa.html), University of Minho, Portugal
+ - [Luís Soares Barbosa (Chair)](https://unu.edu/experts/luis-soares-barbosa.html), University of Minho, Portugal
  - [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology, Netherlands
 
 # Program Chairs
