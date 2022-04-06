@@ -38,18 +38,13 @@ title: "Committees"
 
  - [Farhad Arbab](https://homepages.cwi.nl/~farhad/), CWI and Leiden University, Netherlands
  - [Kyungmin Bae](http://sv.postech.ac.kr/~kmbae/), Pohang University of Science and Technology, Korea
- - [Simon Bliudze](https://www.bliudze.me/simon/), INRIA Lille, France
  - [Peter Csaba Ölveczky](https://olveczky.se/), University of Oslo, Norway
  - [Sung-Shik Jongmans](https://sungshik.github.io/), Open University and CWI, Netherlands
- - [Olga Kouchnarenko](https://members.femto-st.fr/Olga-Kouchnarenko/en), University of Franche-Comté, France
- - [Ivan Lanese](https://www.unibo.it/sitoweb/ivan.lanese/en), University of Bologna, Italy
  - [Zhiming Liu](http://cis.swu.edu.cn/info/1013/1154.htm), Southwest University, China
- - [Alberto Lluch Lafuente](http://www.imm.dtu.dk/~albl/), Technical University of Denmark, Denmark
  - [Markus Lumpe](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=mlumpe), Swinburne University of Technology, Australia
  - [Eric Madelaine](http://www-sop.inria.fr/members/Eric.Madelaine/), INRIA Sophia Antipolis, France
- - [Mieke Massink](http://www1.isti.cnr.it/~Massink/), CNR ISTI, Italy
- - [Hernán Melgratti](https://lafhis.dc.uba.ar/~melgratti), University of Buenos Aires, Argentina
  - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), CMU, USA
+ - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto & INESC TEC, Portugal
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes, France
  - [Luís Soares Barbosa](https://unu.edu/experts/luis-soares-barbosa.html), University of Minho, Portugal
  - [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology, Netherlands
