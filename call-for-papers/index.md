@@ -65,9 +65,10 @@ We solicit high-quality submissions reporting on:
   - __B__ - short papers: tools and demonstrations (6 pages);
   - __C__ - journal-first papers (4 pages).
 
-The page limit excludes references and appendices. Papers should be prepared
-in LaTeX, adhering to the Springer LNCS format and Guidelines. For further
-information please visit the LNCS page at
+Accepted papers from all categories will appear in the proceedings of the
+conference.  The page limit excludes references and appendices. Papers should
+be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. For
+further information please visit the LNCS page at
 [https://www.springer.com/lncs](https://www.springer.com/lncs){:target="_blank"}.
 
 Please use the easychair link below to submit your paper:
@@ -77,10 +78,10 @@ Please use the easychair link below to submit your paper:
 
 ### Full and tool/short publications (A, B)
 
-All submissions in categories __A__ and __B__ must be original, unpublished, and not
-submitted concurrently for publication elsewhere. All accepted papers from all
-categories will appear in the proceedings of the conference. A special journal
-issue is planned for extended versions of selected papers from FACS 2022.
+All submissions in categories __A__ and __B__ must be original, unpublished,
+and not submitted concurrently for publication elsewhere. A special journal
+issue is planned for extended versions of selected papers from categories A
+and B from FACS 2022.
 
 ### Journal-first publications (C)
 
