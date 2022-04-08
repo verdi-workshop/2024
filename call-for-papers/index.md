@@ -18,6 +18,7 @@ title: "Call for Papers"
 # Invited Speakers
 
   - [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/){:target="_blank"}, TU Dresden, Germany
+  - [Ina Schaefer](https://www.tu-braunschweig.de/en/isf/team/schaefer){:target="_blank"}, Karlsruhe IT, Germany
   - [Renato Neves](https://alfa.di.uminho.pt/~nevrenato/){:target="_blank"}, U. Minho, Portugal
   - ...
 
