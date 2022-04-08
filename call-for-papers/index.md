@@ -17,7 +17,9 @@ title: "Call for Papers"
 
 # Invited Speakers
 
-  - TBD
+  - [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/){:target="_blank"}, TU Dresden, Germany
+  - [Renato Neves](https://alfa.di.uminho.pt/~nevrenato/){:target="_blank"}, U. Minho, Portugal
+  - ...
 
 # Scope
 
