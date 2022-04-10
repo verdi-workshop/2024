@@ -68,8 +68,10 @@ We solicit high-quality submissions reporting on:
   - __B__ - short papers: tools and demonstrations (6 pages);
   - __C__ - journal-first papers (4 pages).
 
-Accepted papers from all categories will appear in the proceedings of the
-conference.  The page limit excludes references and appendices. Papers should
+<!-- Accepted papers from all categories will appear in the proceedings of the
+conference. -->
+Accepted papers from all categories will be published by Springer, in the Lecture Notes for Computer Science series. 
+The page limit excludes references and appendices. Papers should
 be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. For
 further information please visit the LNCS page at
 [https://www.springer.com/lncs](https://www.springer.com/lncs){:target="_blank"}.
