@@ -15,7 +15,7 @@ The [Call for Papers](/2022/call-for-papers/) has been published!  Please have
 a look for all information, including Topics of Interest and submission
 instructions.
 
-## Important dates
+### Important dates
 
 - Abstract submission: 24 Jun 2022 (AoE)
 - Paper submission 4 Jul 2022 (AoE)
@@ -31,7 +31,7 @@ verification techniques for component-based systems such as service-oriented
 architecture, cloud and edge computing, safety-critical, hybrid and cyber
 physical systems, etc.
 
-## Past Editions
+### Past Editions
 
 - [FACS 2019](http://facs2019.org/){:target="_blank"}, Amsterdam, Netherlands, October 23-25, 2019
 - [FACS 2018](http://sevlab.postech.ac.kr/facs18/){:target="_blank"}, Pohang, Korea, October 10-12, 2018
@@ -49,3 +49,15 @@ physical systems, etc.
 - FACS 2006, Prague, September 20-22, 2006
 - FACS 2005, Macao, October 24-25, 2005
 - FACS 2003, Pisa, Italy, September 8-9, 2003
+
+# Support
+
+{:style="text-align:center;"}
+[![logo](assets/img/logo-uio.png "logo")](https://www.uio.no/english/){:target="blank"}
+[![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
+[![logo](assets/img/logo-emsig.png "logo")](http://www.emsig.net/emsig.net/){:target="blank"}
+[![logo](assets/img/logo-LNCS.png "logo")](https://www.springer.com/gp/computer-science/lncs){:target="blank"}
+
+{:class="thanks"}
+Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com)
+
