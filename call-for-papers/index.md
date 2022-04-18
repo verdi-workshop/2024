@@ -19,9 +19,9 @@ title: "Call for Papers"
 
   - [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/){:target="_blank"}, TU Dresden, Germany
   - [Ina Schaefer](https://www.tu-braunschweig.de/en/isf/team/schaefer){:target="_blank"}, Karlsruhe IT, Germany
+  - [Renato Neves](https://alfa.di.uminho.pt/~nevrenato/){:target="_blank"}, U. Minho, Portugal
   - ...
-  <!--  - [Renato Neves](https://alfa.di.uminho.pt/~nevrenato/){:target="_blank"}, U. Minho, Portugal -->
-
+  
 # Scope
 
 FACS 2022 is concerned with how formal methods can be applied to
