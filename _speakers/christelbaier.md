@@ -3,9 +3,11 @@ name: Christel Baier
 first_name: Christel
 last_name: Baier
 links:
-  - name: Profile
+  - name: Personal homepage
     absolute_url: https://wwwtcs.inf.tu-dresden.de/~baier/
 ---
+
+![Christel Baier's photo](../../assets/img/christelbaier.jpg){:class="photo-speaker"}
 
 ## Short Bio
 

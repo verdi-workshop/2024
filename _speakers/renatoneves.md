@@ -3,9 +3,11 @@ name: Renato Neves
 first_name: Renato
 last_name: Neves
 links:
-  - name: Profile
+  - name: Personal homepage
     absolute_url: https://alfa.di.uminho.pt/~nevrenato/
 ---
+
+![Renato Neves' photo](../../assets/img/renatoneves.jpg){:class="photo-speaker"}
 
 ## Short bio
 
