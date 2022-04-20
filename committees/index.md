@@ -27,11 +27,13 @@ title: "Committees"
  - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), CMU, USA
  - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto & INESC TEC, Portugal
  - [Violet Ka I Pun](https://foldr.org/~violet/), University of Oslo, Norway
+ - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes, France
  - [Camilo Rocha](https://www.camilorocha.info), Pontificia Universidad Javeriana Cali, Colombia
  - [Luís Soares Barbosa](https://unu.edu/experts/luis-soares-barbosa.html), University of Minho, Portugal
  - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html), University of Oslo, Norway
  - [Emilio Tuosto](https://www.gssi.it/people/professors/lectures-computer-science/item/6408-tuosto-emilio), Gran Sasso Science Institute, Italy
  - [Shoji Yuen](https://www.sqlab.i.is.nagoya-u.ac.jp/person/yuen/index.html), Nagoya University, Japan
+ - [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology, Netherlands
  
 
 # Steering Committee
