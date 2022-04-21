@@ -25,7 +25,7 @@ title: "Committees"
  - [Hernán Melgratti](https://lafhis.dc.uba.ar/~melgratti), University of Buenos Aires, Argentina
  - [Catuscia Palamidessi](https://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, France
  - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), CMU, USA
- - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto & INESC TEC, Portugal
+ - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto, Portugal
  - [Violet Ka I Pun](https://foldr.org/~violet/), University of Oslo, Norway
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes, France
  - [Camilo Rocha](https://www.camilorocha.info), Pontificia Universidad Javeriana Cali, Colombia
@@ -46,7 +46,7 @@ title: "Committees"
  - [Markus Lumpe](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=mlumpe), Swinburne University of Technology, Australia
  - [Eric Madelaine](http://www-sop.inria.fr/members/Eric.Madelaine/), INRIA Sophia Antipolis, France
  - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), CMU, USA
- - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto & INESC TEC, Portugal
+ - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto, Portugal
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes, France
  - [Luís Soares Barbosa (Chair)](https://unu.edu/experts/luis-soares-barbosa.html), University of Minho, Portugal
  - [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology, Netherlands
@@ -54,10 +54,10 @@ title: "Committees"
 # Program Chairs
 
  - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html), University of Oslo, Norway
- - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto & INESC TEC, Portugal
+ - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto, Portugal
 
 # Organising Committee
 
  - [Rudolf Schlatte](https://www.mn.uio.no/ifi/english/people/aca/rudi/), University of Oslo, Norway
  - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html), University of Oslo, Norway
- - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto & INESC TEC, Portugal
+ - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto, Portugal
