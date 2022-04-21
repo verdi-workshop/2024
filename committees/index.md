@@ -19,7 +19,7 @@ title: "Committees"
  - [Olga Kouchnarenko](https://members.femto-st.fr/Olga-Kouchnarenko/en), University of Franche-Comté, France
  - [Ivan Lanese](https://www.unibo.it/sitoweb/ivan.lanese/en), University of Bologna, Italy
  - [Zhiming Liu](http://cis.swu.edu.cn/info/1013/1154.htm), Southwest University, China
- - [Markus Lumpe](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=mlumpe), Swinburne University of Technology, Australia
+ <!-- - [Markus Lumpe](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=mlumpe), Swinburne University of Technology, Australia -->
  - [Mieke Massink](http://www1.isti.cnr.it/~Massink/), CNR ISTI, Italy
  - [Jacopo Mauro](https://jacopomauro.com), University of Southern Denmark, Denmark
  - [Hernán Melgratti](https://lafhis.dc.uba.ar/~melgratti), University of Buenos Aires, Argentina
