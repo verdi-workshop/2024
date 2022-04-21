@@ -4,7 +4,7 @@ first_name: Ina
 last_name: Schaefer
 links:
   - name: Personal homepage
-    absolute_url: https://tva.kastel.kit.edu/
+    absolute_url: https://tva.kastel.kit.edu/team_77.php
 ---
 
 ![Ina Schaefer's photo](../../assets/img/inaschaefer.jpg){:class="photo-speaker"}
