@@ -12,7 +12,7 @@ hosted by the University of Oslo, Norway.
 # Call for Papers
 
 The [Call for Papers](/2022/call-for-papers/) has been published!  Please have
-a look for all information, including Topics of Interest and submission
+a look for all information, including __Topics of Interest__ and submission
 instructions.
 
 ### Important dates
@@ -21,6 +21,13 @@ instructions.
 - Paper submission 4 Jul 2022 (AoE)
 - Paper notification: 5 Sep 2022 (AoE)
 - Camera ready: 26 Sep 2022 (AoE)
+
+### Invited Speakers
+
+  - [Christel Baier](../speakers/christelbaier/), TU Dresden, Germany
+  - [Renato Neves](../speakers/renatoneves/), University of Minho, Portugal
+  - [Ina Schaefer](../speakers/inaschaefer/), Karlsruhe IT, Germany
+  - [Volker Stolz](../speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
 
 # About FACS
 
