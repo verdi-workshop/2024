@@ -62,6 +62,7 @@ physical systems, etc.
 
 {:style="text-align:center;"}
 [![logo](assets/img/logo-uio.png "logo")](https://www.uio.no/english/){:target="blank"}
+[![logo](assets/img/logo-adapt.png "logo")](https://www.mn.uio.no/ifi/english/research/projects/adapt/){:target="blank"}
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
 [![logo](assets/img/logo-emsig.png "logo")](http://www.emsig.net/emsig.net/){:target="blank"}
 [![logo](assets/img/logo-LNCS.png "logo")](https://www.springer.com/gp/computer-science/lncs){:target="blank"}
