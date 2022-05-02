@@ -24,10 +24,10 @@ instructions.
 
 ### Invited Speakers
 
-  - [Christel Baier](../speakers/christelbaier/), TU Dresden, Germany
-  - [Renato Neves](../speakers/renatoneves/), University of Minho, Portugal
-  - [Ina Schaefer](../speakers/inaschaefer/), Karlsruhe IT, Germany
-  - [Volker Stolz](../speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
+  - [Christel Baier](../2022/speakers/christelbaier/), TU Dresden, Germany
+  - [Renato Neves](../2022/speakers/renatoneves/), University of Minho, Portugal
+  - [Ina Schaefer](../2022/speakers/inaschaefer/), Karlsruhe IT, Germany
+  - [Volker Stolz](../2022/speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
 
 # About FACS
 
