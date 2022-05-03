@@ -13,9 +13,9 @@ title: ""
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Christel Baier </p>
-        <p><b>Affiliation:</b> TU Dresden, Germany </p>
-        <p><b>Homepage:</b> <a href="https://wwwtcs.inf.tu-dresden.de/~baier/">https://wwwtcs.inf.tu-dresden.de/~baier/</a> </p>
+        <p><b>Name:</b> Christel Baier <br/>
+        <b>Affiliation:</b> TU Dresden, Germany <br/>
+        <b>Homepage:</b> <a href="https://wwwtcs.inf.tu-dresden.de/~baier/">https://wwwtcs.inf.tu-dresden.de/~baier/</a> </p>
         <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
     </div>
 </div>
@@ -26,9 +26,9 @@ title: ""
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Renato Neves </p>
-        <p><b>Affiliation:</b> University of Minho, Portugal </p>
-        <p><b>Homepage:</b> <a href="https://alfa.di.uminho.pt/~nevrenato/">https://alfa.di.uminho.pt/~nevrenato/</a> </p>
+        <p><b>Name:</b> Renato Neves <br/>
+        <b>Affiliation:</b> University of Minho, Portugal <br/>
+        <b>Homepage:</b> <a href="https://alfa.di.uminho.pt/~nevrenato/">https://alfa.di.uminho.pt/~nevrenato/</a> </p>
         <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
     </div>
 </div>
@@ -39,9 +39,9 @@ title: ""
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Ina Schaefer </p>
-        <p><b>Affiliation:</b> Karlsruhe IT, Germany </p>
-        <p><b>Homepage:</b> <a href="https://tva.kastel.kit.edu/team_77.php">https://tva.kastel.kit.edu/team_77.php</a> </p>
+        <p><b>Name:</b> Ina Schaefer <br/>
+        <b>Affiliation:</b> Karlsruhe IT, Germany <br/>
+        <b>Homepage:</b> <a href="https://tva.kastel.kit.edu/team_77.php">https://tva.kastel.kit.edu/team_77.php</a> </p>
         <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
     </div>
 </div>
@@ -52,9 +52,9 @@ title: ""
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Volker Stolz </p>
-        <p><b>Affiliation:</b> Norway University of Applied Science, Norway </p>
-        <p><b>Homepage:</b> <a href="https://ict.hvl.no/people/volker-stolz/">https://ict.hvl.no/people/volker-stolz/</a> </p>
+        <p><b>Name:</b> Volker Stolz <br/>
+        <b>Affiliation:</b> Norway University of Applied Science, Norway <br/>
+        <b>Homepage:</b> <a href="https://ict.hvl.no/people/volker-stolz/">https://ict.hvl.no/people/volker-stolz/</a> </p>
         <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
     </div>
 </div>
