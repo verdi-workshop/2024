@@ -7,7 +7,7 @@ links:
     absolute_url: https://tva.kastel.kit.edu/team_77.php
 ---
 
-![Ina Schaefer's photo](../../assets/img/inaschaefer.jpg){:class="photo-speaker"}
+![Ina Schaefer's photo](../../assets/img/people/inaschaefer.jpg){:class="photo-speaker"}
 
 
 ## Short bio

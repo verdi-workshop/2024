@@ -9,7 +9,7 @@ title: ""
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
         <a href="/2022/speakers/christelbaier/">
-            <img src="/2022/assets/img/christelbaier.jpg" alt="Christel Baier" title="Christel Baier" width="150"/>
+            <img src="/2022/assets/img/people/small-christelbaier.jpg" alt="Christel Baier" title="Christel Baier" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
@@ -22,7 +22,7 @@ title: ""
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
         <a href="/2022/speakers/renatoneves/">
-            <img src="/2022/assets/img/renatoneves.jpg" alt="Renato Neves" title="Renato Neves" width="150"/>
+            <img src="/2022/assets/img/people/small-renatoneves.jpg" alt="Renato Neves" title="Renato Neves" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
@@ -35,20 +35,20 @@ title: ""
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
         <a href="/2022/speakers/inaschaefer/">
-            <img src="/2022/assets/img/inaschaefer.jpg" alt="Ina Schaefer" title="Ina Schaefer" width="150"/>
+            <img src="/2022/assets/img/people/small-inaschaefer.jpg" alt="Ina Schaefer" title="Ina Schaefer" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
         <p><b>Name:</b> Ina Schaefer <br/>
         <b>Affiliation:</b> Karlsruhe IT, Germany <br/>
-        <b>Homepage:</b> <a href="https://tva.kastel.kit.edu/team_77.php">https://tva.kastel.kit.edu/team_77.php</a> </p>
-        <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
+        <b>Homepage:</b> <a href="https://tva.kastel.kit.edu/team_77.php">https://tva.kastel.kit.edu/team_77.php</a> <br/>
+        <b>Topic:</b> Correctness-by-Construction Engineering - Can we build better software? </p>
     </div>
 </div>
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
         <a href="/2022/speakers/volkerstolz/">
-            <img src="/2022/assets/img/volkerstolz.jpg" alt="Volker Stolz" title="Volker Stolz" width="150"/>
+            <img src="/2022/assets/img/people/small-volkerstolz.jpg" alt="Volker Stolz" title="Volker Stolz" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">

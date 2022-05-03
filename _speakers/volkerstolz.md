@@ -7,7 +7,7 @@ links:
     absolute_url: https://ict.hvl.no/people/volker-stolz/
 ---
 
-![Volker Stolz' photo](../../assets/img/volkerstolz.jpg){:class="photo-speaker"}
+![Volker Stolz' photo](../../assets/img/people/volkerstolz.jpg){:class="photo-speaker"}
 
 ## Short bio
 

@@ -7,7 +7,7 @@ links:
     absolute_url: https://wwwtcs.inf.tu-dresden.de/~baier/
 ---
 
-![Christel Baier's photo](../../assets/img/christelbaier.jpg){:class="photo-speaker"}
+![Christel Baier's photo](../../assets/img/people/christelbaier.jpg){:class="photo-speaker"}
 
 ## Short Bio
 

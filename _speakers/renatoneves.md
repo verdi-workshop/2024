@@ -7,7 +7,7 @@ links:
     absolute_url: https://alfa.di.uminho.pt/~nevrenato/
 ---
 
-![Renato Neves' photo](../../assets/img/renatoneves.jpg){:class="photo-speaker"}
+![Renato Neves' photo](../../assets/img/people/renatoneves.jpg){:class="photo-speaker"}
 
 ## Short bio
 
