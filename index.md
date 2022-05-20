@@ -58,6 +58,9 @@ physical systems, etc.
 - FACS 2005, Macao, October 24-25, 2005
 - FACS 2003, Pisa, Italy, September 8-9, 2003
 
+<!-- See publish.twitter.com, https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/profile-timeline -->
+<a class="twitter-timeline"  data-width="600" data-height="600" data-chrome="nofooter" dnt="true" href="https://twitter.com/facs_conf?ref_src=twsrc%5Etfw">Tweets by facs_conf</a>
+
 # Support
 
 {:style="text-align:center;"}
@@ -69,4 +72,6 @@ physical systems, etc.
 
 {:class="thanks"}
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com)
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
