@@ -165,6 +165,8 @@ conference:
     navbar_title: 'Location'
     # Show map on location main page
     map: false
+    # Show navbar with list of rooms (currently only "Zoom")
+    hide: true
 
   program:
     # URL of program page
