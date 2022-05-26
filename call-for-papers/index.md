@@ -103,3 +103,6 @@ Submissions in category __C__ must be 4-page abstracts of journal papers publish
 
 Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).
 
+### Registration
+
+Registration for FACS 2022 will be free but mandatory. Information on how to register will be presented later.
