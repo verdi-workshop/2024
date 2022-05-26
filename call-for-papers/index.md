@@ -81,6 +81,9 @@ Please use the easychair link below to submit your paper:
   
 - [https://easychair.org/conferences/?conf=facs2022](https://easychair.org/conferences/?conf=facs2022){:target="_blank"}
 
+The authors of a selected subset of accepted papers will be invited to submit an extended versions of 
+their papers to a special issue in the Formal Aspects of Computing: Applicable Formal Methods (FAC) journal: https://dl.acm.org/journal/fac.
+
 
 ### Full and tool/short publications (A, B)
 
