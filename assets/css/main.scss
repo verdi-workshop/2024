@@ -42,6 +42,12 @@ img[title=logo] {
   padding: 10px;
 }
 
+img[title=logoSmall] {
+  max-width: 235px !important;
+  max-height: 70px;
+  padding: 10px;
+}
+
 .thanks {
   text-align:center;
   font-size: 0.7rem;
