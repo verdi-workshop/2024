@@ -73,11 +73,13 @@ physical systems, etc.
 {:style="text-align:center;"}
 [![logo](assets/img/logo-FCT1-norte2020.png "logoSmall")](http://norte2020.pt/){:target="blank"}
 [![logo](assets/img/logo-FCT2-pt2020.png "logoSmall")](https://www.portugal2020.pt/Portal2020){:target="blank"}
-[![logo](assets/img/logo-FCT3-EU.png "logoSmall")](http://ec.europa.eu/regional_policy/pt/funding/erdf/){:target="blank"}
+[![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}
 [![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
+[![logo](assets/img/logo-ECSEL.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
 
 {:class="thanks"}
-This work is supported by the Norte Portugal Regional Operational Programme (NORTE 2020) under the Portugal 2020 Partnership Agreement, through ERDF – European Regional Development Fund through the Operational Programme for Competitiveness and Internationalisation (project NORTE-01-0145-FEDER-028550), and also by national funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia (project PTDC/EEI-COM/28550/2017).
+This event is supported by the Norte Portugal Regional Operational Programme (NORTE 2020) under the Portugal 2020 Partnership Agreement, through ERDF – European Regional Development Fund through the Operational Programme for Competitiveness and Internationalisation (project NORTE-01-0145-FEDER-028550), and also by national funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia (project PTDC/EEI-COM/28550/2017).
+The project has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 876852. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Austria, Czech Republic, Germany, Ireland, Italy, Portugal, Spain, Sweden, Turkey.
 
 {:class="thanks"}
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com)
