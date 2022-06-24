@@ -26,7 +26,7 @@ instructions.
 ### Important dates
 
 - Abstract submission: ~~24 Jun 2022~~ 18 Jul 2022 (AoE)
-- Paper submission ~~4 Jul 2022~~ 18 Jul 2022 (AoE)
+- Paper submission: ~~4 Jul 2022~~ 18 Jul 2022 (AoE)
 - Paper notification: 5 Sep 2022 (AoE)
 - Camera ready: 26 Sep 2022 (AoE)
 
