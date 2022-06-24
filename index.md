@@ -9,7 +9,7 @@ take place on 10-11 November 2022. FACS 2022 will be an online conference
 hosted by the University of Oslo, Norway.
  -->
 
-# Important Message 
+# Extended Deadline 
 
 We extended both the abstract and paper deadline to 
 the 18th of July. However, we encourage authors to submit their 
