@@ -13,7 +13,7 @@ hosted by the University of Oslo, Norway.
 
 We extended both the abstract and paper deadline to 
 the 18th of July. However, we encourage authors to submit their 
-abstracts as soon as possible, to ease the planning of the reviewing 
+abstracts as soon as possible to ease the planning of the reviewing 
 process.
 
 
