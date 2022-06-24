@@ -6,8 +6,8 @@ title: "Call for Papers"
 
 # Important Dates
 
-  - Abstract submission deadline: 24 Jun, 2022 (AoE)
-  - Paper submission deadline: 4 Jul, 2022 (AoE)
+  - Abstract submission deadline: ~~24 Jun 2022~~ 18 Jul 2022 (AoE)
+  - Paper submission deadline: ~~4 Jul 2022~~ 18 Jul 2022 (AoE)
   - Notification: 5 Sep, 2022 (AoE)
   - Final version due: 26 Sep, 2022 (AoE)
 
@@ -22,6 +22,9 @@ title: "Call for Papers"
   - [Ina Schaefer](../speakers/inaschaefer/), Karlsruhe IT, Germany
   - [Volker Stolz](../speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
 
+### Free Registration
+
+Registration for FACS 2022 will be free but mandatory. Information on how to register will be presented later.
 
 # Scope
 
@@ -103,6 +106,3 @@ Submissions in category __C__ must be 4-page abstracts of journal papers publish
 
 Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).
 
-### Registration
-
-Registration for FACS 2022 will be free but mandatory. Information on how to register will be presented later.
