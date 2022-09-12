@@ -8,34 +8,16 @@ days:
     rooms:
       - name: Zoom
         talks:
-          - name: Talk 1
+          - name: 'Embeddings Between State and Action Based Probabilistic Logics'
             time_start: '13:00'
             time_end: '13:30'
-          - name: Talk 2
-            time_start: '13:30'
-            time_end: '14:00'
-          - name: Talk 3
-            time_start: '14:00'
-            time_end: '14:30'
-          - name: Talk 4
-            time_start: '14:30'
-            time_end: '15:00'
   - name: Friday
     abbr: Fri
     date: 2022-11-11
     rooms:
       - name: Zoom
         talks:
-          - name: Talk 5
+          - name: 'WEASY: A Modelling Tool for Optimized BPMN Processes'
             time_start: '13:00'
             time_end: '13:30'
-          - name: Talk 6
-            time_start: '13:30'
-            time_end: '14:00'
-          - name: Talk 7
-            time_start: '14:00'
-            time_end: '14:30'
-          - name: Talk 8
-            time_start: '14:30'
-            time_end: '15:00'
           
