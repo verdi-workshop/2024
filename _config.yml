@@ -145,13 +145,13 @@ conference:
       - name: Logics & Semantics
         color: info
       - name: Choreographies
-        color: info
+        color: danger
       - name: Cyber-Physical Systems
-        color: info
+        color: warning
       - name: Software Engineering
-        color: info
-      - name: Invited Talk
         color: success
+      - name: Invited Talk
+        color: secondary
 
     # Hide icons on talk overview page
     hide_icons: false
