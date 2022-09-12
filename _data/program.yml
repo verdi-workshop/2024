@@ -8,16 +8,48 @@ days:
     rooms:
       - name: Zoom
         talks:
+          - name: 'Decompositional Branching Bisimulation Minimisation of Monolithic Processes'
+            time_start: '11:00'
+            time_end: '11:30'
           - name: 'Embeddings Between State and Action Based Probabilistic Logics'
-            time_start: '13:00'
-            time_end: '13:30'
+            time_start: '11:30'
+            time_end: '12:00'
+          - name: 'Footprint Logic for Object-Oriented Components'
+            time_start: '12:00'
+            time_end: '12:30'
+          - name: 'Correctness-by-Construction Engineering - Can we build better software?'
+            time_start: '14:00'
+            time_end: '15:00'            
+          - name: 'Open Compliance in Multiparty Sessions'
+            time_start: '15:30'
+            time_end: '16:00'
+          - name: 'Realisability of branching pomsets'
+            time_start: '16:00'
+            time_end: '16:30'
+
   - name: Friday
     abbr: Fri
     date: 2022-11-11
     rooms:
       - name: Zoom
         talks:
+          - name: 'Compositional Simulation of Abstract State Machines for Safety Critical Systems'
+            time_start: '11:00'
+            time_end: '11:30'
+          - name: 'Liquidity analysis in resource-aware programming'
+            time_start: '11:30'
+            time_end: '12:00'
+          - name: 'Specifying Source Code and Signal-based Behaviour of Cyber-Physical System Components'
+            time_start: '12:00'
+            time_end: '12:30'
+          - name: 'Formal Model in the loop for Secure Industrial Control Networks'
+            time_start: '15:30'
+            time_end: '16:00'
           - name: 'WEASY: A Modelling Tool for Optimized BPMN Processes'
-            time_start: '13:00'
-            time_end: '13:30'
+            time_start: '16:00'
+            time_end: '16:30'
           
+
+
+
+

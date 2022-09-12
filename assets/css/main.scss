@@ -6,6 +6,10 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 @import 'conference';
 
 
+.table th, .table td {
+  width: 690px;
+}
+
 a {
   color: #002faf;
 }
