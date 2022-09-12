@@ -142,9 +142,13 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Modeling & Composition
+      - name: Logics & Semantics
         color: info
-      - name: Verification
+      - name: Choreographies
+        color: info
+      - name: Cyber-Physical Systems
+        color: info
+      - name: Software Engineering
         color: info
       - name: Invited Talk
         color: success
