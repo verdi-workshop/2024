@@ -71,7 +71,7 @@ conference:
       #   relative_url: /program/
       # - name: Talks
       #   relative_url: /talks/
-      - name: Invited Speakers
+      - name: Speakers
         relative_url: /speakers/
       - name: Location
         relative_url: /location/

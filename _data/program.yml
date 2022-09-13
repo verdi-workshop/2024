@@ -2,7 +2,7 @@
 # For each speaker, add a file in `_speakers/`
 # For each room, add a file in `_rooms/`
 days:
-  - name: Thursday
+  - name: Thursday, 10 Nov
     abbr: Thu
     date: 2022-11-10
     rooms:
@@ -27,7 +27,7 @@ days:
             time_start: '16:00'
             time_end: '16:30'
 
-  - name: Friday
+  - name: Friday, 11 Nov
     abbr: Fri
     date: 2022-11-11
     rooms:
