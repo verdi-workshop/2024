@@ -6,7 +6,7 @@ speakers:
   - Tomas Kulik
   - Peter Gorm Larsen
   - Jalil Boudjadar
-  - Diego F Aranha
+  - Diego F. Aranha
 categories:
   - Modelling & Verification
 ---
