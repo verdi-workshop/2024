@@ -144,11 +144,11 @@ conference:
     main_categories:
       - name: Logics & Semantics
         color: info
-      - name: Choreographies
-        color: danger
-      - name: Cyber-Physical Systems
+      - name: Types & Choreographies
         color: warning
-      - name: Software Engineering
+        # color: danger
+        # color: success
+      - name: Modelling & Verification
         color: success
       - name: Invited Talk
         color: secondary

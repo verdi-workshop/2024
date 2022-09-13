@@ -6,7 +6,7 @@ speakers:
   - Elvinia Riccobene
   - Patrizia Scandurra
 categories:
-  - Cyber-Physical Systems
+  - Modelling & Verification
 ---
 
 Model-based simulation is nowadays an accepted practice for reliable prototyping of system behavior. To keep requirements complexity under control, system components are specified by separate models, validated and verified in isolation from the rest, but models have to be subsequently integrated and validated as a whole. For this reason, engines for orchestrated simulation of separate models are extremely useful.

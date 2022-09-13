@@ -4,7 +4,7 @@ speakers:
   - Joshua Dawes
   - Domenico Bianculli
 categories:
-  - Cyber-Physical Systems
+  - Modelling & Verification
 ---
 
 Specifying properties over the behaviour of components of Cyber-Physical Systems usually 
