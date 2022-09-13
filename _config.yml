@@ -69,8 +69,8 @@ conference:
         relative_url: /call-for-papers/
       # - name: Program
       #   relative_url: /program/
-      # - name: Talks
-      #   relative_url: /talks/
+      - name: Talks
+        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       - name: Location
@@ -150,7 +150,7 @@ conference:
         # color: success
       - name: Modelling & Verification
         color: success
-      - name: Invited Talk
+      - name: Invited Talks
         color: secondary
 
     # Hide icons on talk overview page

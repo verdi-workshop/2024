@@ -37,14 +37,14 @@ en:
     focus_conf: Center map on conference location
     focus_me: Show my current location
   program:
-    title: Program
+    title: Preliminary Program
     legend: Caption
   speaker:
     overview: Speakers
     title: Speaker
     talks: Talks at this conference
   talk:
-    overview: Talks
+    overview: Accepted Papers & Talks
     title: Talk
 
 de:
