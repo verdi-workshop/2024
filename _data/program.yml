@@ -8,6 +8,37 @@ days:
     rooms:
       - name: Zoom
         talks:
+          # Modelling & Verification 1
+          - name: 'Compositional Simulation of Abstract State Machines for Safety Critical Systems'
+            time_start: '11:30'
+            time_end: '12:00'
+          - name: 'Specifying Source Code and Signal-based Behaviour of Cyber-Physical System Components'
+            time_start: '12:00'
+            time_end: '12:30'
+          - name: 'Formally Characterizing the Effect of Model Transformations on System Properties'
+            time_start: '12:30'
+            time_end: '13:00'
+
+          - name: 'Interpretation and Formalization of the Right-of-Way Rules'
+            time_start: '15:30'
+            time_end: '16:00'
+          - name: 'Formal Model in the loop for Secure Industrial Control Networks'
+            time_start: '16:00'
+            time_end: '16:30'
+          - name: 'Debugging of BPMN Processes using Coloration Techniques'
+            time_start: '16:30'
+            time_end: '17:00'
+          - name: 'WEASY: A Modelling Tool for Optimized BPMN Processes'
+            time_start: '17:00'
+            time_end: '17:30'
+
+
+  - name: Friday, 11 Nov
+    abbr: Fri
+    date: 2022-11-11
+    rooms:
+      - name: Zoom
+        talks:
           # Invited
           - name: 'Correctness-by-Construction Engineering - Can we build better software?'
             time_start: '10:00'
@@ -32,37 +63,6 @@ days:
           - name: 'Liquidity analysis in resource-aware programming'
             time_start: '16:30'
             time_end: '17:00'
-
-
-  - name: Friday, 11 Nov
-    abbr: Fri
-    date: 2022-11-11
-    rooms:
-      - name: Zoom
-        talks:
-          # Modelling & Verification 1
-          - name: 'Compositional Simulation of Abstract State Machines for Safety Critical Systems'
-            time_start: '11:30'
-            time_end: '12:00'
-          - name: 'Specifying Source Code and Signal-based Behaviour of Cyber-Physical System Components'
-            time_start: '12:00'
-            time_end: '12:30'
-          - name: 'Formally Characterizing the Effect of Model Transformations on System Properties'
-            time_start: '12:30'
-            time_end: '13:00'
-
-          - name: 'Interpretation and Formalization of the Right-of-Way Rules'
-            time_start: '15:30'
-            time_end: '16:00'
-          - name: 'Formal Model in the loop for Secure Industrial Control Networks'
-            time_start: '16:00'
-            time_end: '16:30'
-          - name: 'Debugging of BPMN Processes using Coloration Techniques'
-            time_start: '16:30'
-            time_end: '17:00'
-          - name: 'WEASY: A Modelling Tool for Optimized BPMN Processes'
-            time_start: '17:00'
-            time_end: '17:30'
 
 
 
