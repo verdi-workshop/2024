@@ -9,7 +9,7 @@ days:
       - name: Zoom
         talks:
           # Invited
-          - name: 'Invited talk (tba)'
+          - name: 'Semantics for Hybrid Components - Categorical Tools and Techniques'
             time_start: '10:00'
             time_end: '11:00'            
 
