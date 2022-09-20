@@ -66,7 +66,7 @@ days:
             time_end: '13:00'
 
           # Invited
-          - name: 'Invited talk by Volker Stolz'
+          - name: 'Hardware-Components for Runtime Monitoring'
             time_start: '14:00'
             time_end: '15:00'            
 
