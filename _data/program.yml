@@ -21,12 +21,12 @@ days:
             time_end: '11:30'
 
           # Invited
-          - name: 'Correctness-by-Construction Engineering - Can we build better software?'
+          - name: 'Semantics for Hybrid Components - Categorical Tools and Techniques'
             time_start: '12:00'
             time_end: '13:00'            
 
           # Invited
-          - name: 'Semantics for Hybrid Components - Categorical Tools and Techniques'
+          - name: 'Correctness-by-Construction Engineering - Can we build better software?'
             time_start: '14:00'
             time_end: '15:00'            
 
