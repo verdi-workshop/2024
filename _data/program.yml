@@ -62,7 +62,7 @@ days:
             time_end: '11:30'
 
           # Invited
-          - name: 'Invited talk by Christel Baier'
+          - name: 'Probabilistic causality in Markovian models'
             time_start: '12:00'
             time_end: '13:00'            
 
