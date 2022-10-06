@@ -9,12 +9,11 @@ take place on 10-11 November 2022. FACS 2022 will be an online conference
 hosted by the University of Oslo, Norway.
  -->
 
-# Extended Deadline 
+# Registration
 
-We extended both the abstract and paper deadline to 
-the 18th of July. However, we encourage authors to submit their 
-abstracts as soon as possible to ease the planning of the reviewing 
-process.
+Please register for free using the form below.
+
+- [https://nettskjema.no/a/facs2022-registration](https://nettskjema.no/a/facs2022-registration){:target="_blank"}
 
 
 # Call for Papers
@@ -23,12 +22,6 @@ The [Call for Papers](/2022/call-for-papers/) has been published!  Please have
 a look for all information, including __Topics of Interest__ and submission
 instructions.
 
-### Important dates
-
-- Abstract submission: ~~24 Jun 2022~~ 18 Jul 2022 (AoE)
-- Paper submission: ~~4 Jul 2022~~ 18 Jul 2022 (AoE)
-- Paper notification: 5 Sep 2022 (AoE)
-- Camera ready: 26 Sep 2022 (AoE)
 
 ### Invited Speakers
 
