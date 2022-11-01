@@ -142,15 +142,17 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Logics & Semantics
+      - name: Logics & Semantics - Session Chair: Clemens Dubslaff
         color: info
-      - name: Types & Choreographies
+      - name: Types & Choreographies - Session Chair: Emilio Tuosto
         color: warning
         # color: danger
         # color: success
-      - name: Modelling & Verification
+      - name: Modelling & Verification I - Session Chair: Olga Kouchnarenko
         color: success
-      - name: Invited Talks
+      - name: Modelling & Verification II - Session Chair: Marie Farrell
+        color: success
+      - name: Invited Talks - - Session Chairs: José Proença, Silvia Lizeth Tapia Tarifa
         color: secondary
 
     # Hide icons on talk overview page
