@@ -10,7 +10,7 @@ All times are in Oslo time (UTC+02:00).
 var a_p = "";
 var d = new Date();
 var curr_min = d.getMinutes();
-var curr_oslohour = d.getUTCHours() + 2;
+var curr_oslohour = d.getUTCHours() + 1;
 if (curr_oslohour > 23) curr_oslohour = curr_oslohour - 24;
 document.write("The current local time in Oslo is " + String(curr_oslohour).padStart(2, '0') + ":" + String(curr_min).padStart(2, '0') + ".");
 //-->
