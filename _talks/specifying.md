@@ -5,6 +5,10 @@ speakers:
   - Domenico Bianculli
 categories:
   - Modelling & Verification
+links:
+  - name: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_2
+    absolute_url: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_2
+    icon: newspaper
 ---
 
 Specifying properties over the behaviour of components of Cyber-Physical Systems usually 

@@ -1,10 +1,14 @@
 ---
-name: 'Debugging of BPMN Processes using Coloration Techniques'
+name: 'Debugging of BPMN Processes Using Coloration Techniques'
 speakers:
   - Quentin Nivon
   - Gwen Salaün
 categories:
   - Modelling & Verification
+links:
+  - name: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_6
+    absolute_url: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_6
+    icon: newspaper
 ---
 
 A business process is a collection of related tasks organized in a specific order 

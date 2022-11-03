@@ -7,6 +7,10 @@ speakers:
   - Patrizia Scandurra
 categories:
   - Modelling & Verification
+links:
+  - name: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_1
+    absolute_url: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_1
+    icon: newspaper
 ---
 
 Model-based simulation is nowadays an accepted practice for reliable prototyping of system behavior. To keep requirements complexity under control, system components are specified by separate models, validated and verified in isolation from the rest, but models have to be subsequently integrated and validated as a whole. For this reason, engines for orchestrated simulation of separate models are extremely useful.
