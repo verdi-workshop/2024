@@ -6,6 +6,7 @@ categories:
   - Invited Talks
 ---
 
+**Session Chair**: José Proença
 
 A main challenge of the 21st century is to engineer software devices that
 tightly interact with physical processes such as velocity, movement, energy,

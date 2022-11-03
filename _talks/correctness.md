@@ -6,6 +6,8 @@ categories:
   - Invited Talks
 ---
 
+**Session Chair**: Silvia Lizeth Tapia Tarifa
+
 Correctness-by-Construction (CbC) is an incremental software development technique to create functionally correct programs guided by a specification. In contrast to post-hoc verification,
 where the specification and verification mainly take part after implementing a program, with CbC the specification is defined first, and then the program is
 successively created using a small set of refinement rules. This specification-first approach has the advantage that errors

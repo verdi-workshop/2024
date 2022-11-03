@@ -11,6 +11,9 @@ links:
     icon: newspaper
 ---
 
+**Presenter**: Joshua Dawes  
+**Session Chair**: Olga Kouchnarenko
+
 Specifying properties over the behaviour of components of Cyber-Physical Systems usually 
 focuses on the behaviour of signals, i.e., the behaviour of the 
 physical part of the system, leaving the behaviour of the cyber 

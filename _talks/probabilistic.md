@@ -6,6 +6,8 @@ speakers:
   - Christel Baier
 ---
 
+**Session Chair**: José Proença
+
 As modern software systems control more and more aspects of our everyday 
 lives, they grow increasingly complex. Therefore, the goal of modern IT 
 science does not only lie in the development of powerful and versatile 

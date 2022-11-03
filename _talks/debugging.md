@@ -11,6 +11,9 @@ links:
     icon: newspaper
 ---
 
+**Presenter**: Quentin Nivon  
+**Session Chair**: Marie Ferrel
+
 A business process is a collection of related tasks organized in a specific order 
 whose overall execution solves a specific service or product. BPMN has become 
 the standard workflow-based notation for developing business processes. 

@@ -6,6 +6,8 @@ categories:
   - Invited Talks
 ---
 
+**Session Chair**: Silvia Lizeth Tapia Tarifa
+
 In this presentation, we give an overview over hardware-level event sources, such as processor tracing facilities, and how to integrate them into applications, in particular monitoring approaches.
 Secondly, we discuss approaches to processing events in hardware on FPGAs of Systems-on-Chips or accelerator cards.
 We conclude with an in-depth look at an integrated approach that generates hardware- and middleware-components for reconfigurable monitors from the high-level specification language TeSSLa.
