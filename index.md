@@ -8,6 +8,10 @@ The 18th International Conference on Formal Aspects of Component Software will
 take place on 10-11 November 2022. FACS 2022 will be an online conference
 hosted by the University of Oslo, Norway.
  -->
+# Proceedings
+
+[Check the proceedings here!](https://link.springer.com/book/10.1007/978-3-031-20872-0)
+
 
 # Registration
 
