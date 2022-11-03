@@ -7,6 +7,10 @@ speakers:
   - Tim Willemse
 categories:
   - Logics & Semantics
+links:
+  - name: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_10
+    absolute_url: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_10
+    icon: newspaper
 ---
 
 One of the biggest challenges in model checking complex systems is the state space explosion problem. A well known technique to reduce the impact of this problem is compositional minimisation. In this technique, first the state spaces of all components are computed and minimised modulo some behavioural equivalence (e.g., some form of bisimilarity). These minimised transition systems are subsequently combined to obtain the final state space.

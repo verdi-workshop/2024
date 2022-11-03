@@ -7,6 +7,10 @@ speakers:
   - Stijn de Gouw
 categories:
   - Logics & Semantics
+links:
+  - name: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_9
+    absolute_url: https://link.springer.com/chapter/10.1007/978-3-031-20872-0_9
+    icon: newspaper
 ---
 
 We introduce a new way of reasoning about invariance in terms of footprints in a Hoare logic for object-oriented components. 
