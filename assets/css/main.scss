@@ -5,6 +5,15 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 
 @import 'conference';
 
+.bg-soft-hidden {
+  display: none !important;
+}
+
+.alert-hidden {
+  color: #0b2f13;
+  background-color: #daf5ff;
+  border-color: #92dbf6;
+}
 
 .table th, .table td {
   width: 690px;

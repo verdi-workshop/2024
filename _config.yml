@@ -152,6 +152,8 @@ conference:
         color: success
       - name: Invited Talks
         color: secondary
+      - name: Organisation
+        color: hidden
 
     # Hide icons on talk overview page
     hide_icons: false

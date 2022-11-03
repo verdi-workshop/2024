@@ -9,6 +9,11 @@ days:
       - name: Zoom
         talks:
 
+          # Welcome
+          - name: 'Welcome to FACS 2022'
+            time_start: '09:45' # rounded down to 9:30
+            time_end: '10:00'
+
           # Modelling & Verification 1
           - name: 'Compositional Simulation of Abstract State Machines for Safety Critical Systems'
             time_start: '10:00'
@@ -82,6 +87,10 @@ days:
             time_start: '16:30'
             time_end: '17:00'
 
+          # Closing
+          - name: 'Best-paper award and Closing of FACS 2022'
+            time_start: '17:00'
+            time_end: '17:30'
 
 
           
