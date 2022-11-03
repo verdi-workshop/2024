@@ -151,9 +151,9 @@ conference:
       - name: Modelling & Verification
         color: success
       - name: Invited Talks
-        color: secondary
+        color: danger
       - name: Organisation
-        color: hidden
+        color: light
 
     # Hide icons on talk overview page
     hide_icons: false

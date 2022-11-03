@@ -10,7 +10,7 @@ days:
         talks:
 
           # Welcome
-          - name: 'Welcome to FACS 2022'
+          - name: '09:45 - Welcome to FACS 2022'
             time_start: '09:45' # rounded down to 9:30
             time_end: '10:00'
 
