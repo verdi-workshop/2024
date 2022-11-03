@@ -10,7 +10,7 @@ hosted by the University of Oslo, Norway.
  -->
 # Proceedings
 
-[Check the proceedings here!](https://link.springer.com/book/10.1007/978-3-031-20872-0)
+Check the proceedings [here](https://link.springer.com/book/10.1007/978-3-031-20872-0)!
 
 
 # Registration
