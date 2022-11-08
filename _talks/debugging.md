@@ -12,7 +12,7 @@ links:
 ---
 
 **Presenter**: Quentin Nivon  
-**Session Chair**: Marie Ferrel
+**Session Chair**: Olga Kouchnarenko
 
 A business process is a collection of related tasks organized in a specific order 
 whose overall execution solves a specific service or product. BPMN has become 

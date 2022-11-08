@@ -12,7 +12,7 @@ links:
 ---
 
 **Presenter**: Joshua Dawes  
-**Session Chair**: Olga Kouchnarenko
+**Session Chair**: Marie Farrell
 
 Specifying properties over the behaviour of components of Cyber-Physical Systems usually 
 focuses on the behaviour of signals, i.e., the behaviour of the 
