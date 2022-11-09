@@ -9,14 +9,15 @@ take place on 10-11 November 2022. FACS 2022 will be an online conference
 hosted by the University of Oslo, Norway.
  -->
 
-# Registration
+# We are online!
 
-Please register for free using the form below.
+See the program here: [Thursday](../2022/program/#thu), [Friday](../2022/program/#fri)
 
-- [https://nettskjema.no/a/facs2022-registration](https://nettskjema.no/a/facs2022-registration){:target="_blank"}
+Zoom link for the presentations: [https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09](https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09){:target="_blank"}
 
+Coffee breaks at wonder.me: [https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a](https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a){:target="_blank"}
 
-# Proceedings
+### Proceedings
 
 The proceedings are online!  For the duration of the conference, all papers
 can be accessed freely at
@@ -29,6 +30,13 @@ can be accessed freely at
   - [Renato Neves](../2022/speakers/renatoneves/), University of Minho, Portugal
   - [Ina Schaefer](../2022/speakers/inaschaefer/), Karlsruhe IT, Germany
   - [Volker Stolz](../2022/speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
+
+
+# Registration
+
+Please register for free using the form below.
+
+- [https://nettskjema.no/a/facs2022-registration](https://nettskjema.no/a/facs2022-registration){:target="_blank"}
 
 # About FACS
 
