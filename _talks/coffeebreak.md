@@ -2,7 +2,7 @@
 name: 'Coffee Break'
 categories:
   - Organisation
-link:
+links:
   - https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a
 ---
 

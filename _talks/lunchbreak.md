@@ -2,8 +2,10 @@
 name: 'Lunch Break'
 categories:
   - Organisation
-link:
-  
+links:
+  - https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a
 ---
 
-Streaming on [wonder.me](https://wonder.me) -- meeting URL TBD
+Lunch breaks are happening on
+[wonder.me](https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a){:target="_blank"}
+-- come and chat with presenters and participants!
