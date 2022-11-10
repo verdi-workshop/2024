@@ -80,7 +80,7 @@ physical systems, etc.
 [![logo](assets/img/logo-LNCS.png "logo")](https://www.springer.com/gp/computer-science/lncs){:target="blank"}
 
 {:style="text-align:center;"}
-[![logo](assets/img/logo-FCT1-sirius.png "logoSmall")](https://sirius-labs.no/){:target="blank"}
+[![logo](assets/img/logo-sirius.png "logoSmall")](https://sirius-labs.no/){:target="blank"}
 [![logo](assets/img/logo-FCT1-norte2020.png "logoSmall")](http://norte2020.pt/){:target="blank"}
 [![logo](assets/img/logo-FCT2-pt2020.png "logoSmall")](https://www.portugal2020.pt/Portal2020){:target="blank"}
 [![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}
