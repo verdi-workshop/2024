@@ -88,11 +88,7 @@ physical systems, etc.
 [![logo](assets/img/logo-ECSEL.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
 
 {:class="thanks"}
-This event is supported by:
-- The Norte Portugal Regional Operational Programme (NORTE 2020) under the Portugal 2020 Partnership Agreement, through ERDF – European Regional Development Fund through the Operational Programme for Competitiveness and Internationalisation (project NORTE-01-0145-FEDER-028550),
-- National funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia (project PTDC/EEI-COM/28550/2017).
-The project has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 876852. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Austria, Czech Republic, Germany, Ireland, Italy, Portugal, Spain, Sweden, Turkey.
-- National funds through the Research Council of Norway, that is is funding the FRINATEK Young Research Talent Project ADAPt (No. 274515), and the SIRIUS Innovation centre (No. 237898)
+This event is supported by - the Norte Portugal Regional Operational Programme (NORTE 2020) under the Portugal 2020 Partnership Agreement, through ERDF – European Regional Development Fund through the Operational Programme for Competitiveness and Internationalisation (project NORTE-01-0145-FEDER-028550), - national funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia (project PTDC/EEI-COM/28550/2017). The project has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 876852. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Austria, Czech Republic, Germany, Ireland, Italy, Portugal, Spain, Sweden, Turkey, - national funds through the Research Council of Norway, that is is funding the FRINATEK Young Research Talent Project ADAPt (No. 274515), and the SIRIUS Innovation centre (No. 237898).
 
 {:class="thanks"}
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com)
