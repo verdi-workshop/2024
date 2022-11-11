@@ -21,7 +21,7 @@ Coffee breaks at wonder.me: [https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b
 
 The proceedings are online!  For the duration of the conference, all papers
 can be accessed freely at
-[https://link.springer.com/book/10.1007/978-3-031-20872-0](https://link.springer.com/book/10.1007/978-3-031-20872-0){:target="_blank"}.
+[https://link.springer.com/book/10.1007/978-3-031-20872-0](https://link.springer.com/book/10.1007/978-3-031-20872-0){:target="_blank"}{:rel="noopener"}.
 
 
 ### Invited Speakers
