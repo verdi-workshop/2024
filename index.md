@@ -9,34 +9,13 @@ take place on 10-11 November 2022. FACS 2022 will be an online conference
 hosted by the University of Oslo, Norway.
  -->
 
-# We are online!
+<!-- # We are online! -->
 
-See the program here: [Thursday](../2022/program/#thu), [Friday](../2022/program/#fri)
+<!-- See the program here: [Thursday](../2022/program/#thu), [Friday](../2022/program/#fri) -->
 
-Zoom link for the presentations: [https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09](https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09){:target="_blank"}
+<!-- Zoom link for the presentations: [https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09](https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09){:target="_blank"} -->
 
-Coffee breaks at wonder.me: [https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a](https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a){:target="_blank"}
-
-### Proceedings
-
-The proceedings are online!  For the duration of the conference, all papers
-can be accessed freely at
-[https://link.springer.com/book/10.1007/978-3-031-20872-0](https://link.springer.com/book/10.1007/978-3-031-20872-0){:target="_blank"}{:rel="noopener"}.
-
-
-### Invited Speakers
-
-  - [Christel Baier](../2022/speakers/christelbaier/), TU Dresden, Germany
-  - [Renato Neves](../2022/speakers/renatoneves/), University of Minho, Portugal
-  - [Ina Schaefer](../2022/speakers/inaschaefer/), Karlsruhe IT, Germany
-  - [Volker Stolz](../2022/speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
-
-
-# Registration
-
-Please register for free using the form below.
-
-- [https://nettskjema.no/a/facs2022-registration](https://nettskjema.no/a/facs2022-registration){:target="_blank"}
+<!-- Coffee breaks at wonder.me: [https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a](https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a){:target="_blank"} -->
 
 # About FACS
 
@@ -46,6 +25,21 @@ conferences cover topics including models, languages, analysis and
 verification techniques for component-based systems such as service-oriented
 architecture, cloud and edge computing, safety-critical, hybrid and cyber
 physical systems, etc.
+
+The 18th edition of FACS took place online on November 10-11 2022 and was organized by the University of Oslo.
+
+### Proceedings
+
+The proceedings are online at
+[https://link.springer.com/book/10.1007/978-3-031-20872-0](https://link.springer.com/book/10.1007/978-3-031-20872-0){:target="_blank"}{:rel="noopener"}.
+
+
+### Invited Speakers
+
+  - [Christel Baier](../2022/speakers/christelbaier/), TU Dresden, Germany
+  - [Renato Neves](../2022/speakers/renatoneves/), University of Minho, Portugal
+  - [Ina Schaefer](../2022/speakers/inaschaefer/), Karlsruhe IT, Germany
+  - [Volker Stolz](../2022/speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
 
 ### Past Editions
 

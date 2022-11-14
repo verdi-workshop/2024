@@ -1,18 +1,14 @@
 ---
 layout: location
-links:
-  - https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09
-  - https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a
 ---
 
-FACS 2022 presentations and discussion are held online at the following link: [https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09](https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09){:target="_blank"}.
+FACS 2022 presentations and discussion were held online on Zoom.
 
-Feedback and discussion from the audience will make use of Zoom's chat
-functionality.  Audience members who submit a question will be unmuted for
+Feedback and discussion from the audience made use of Zoom's chat
+functionality.  Audience members who submitted a question were unmuted for
 follow-up questions.
 
-Online coffee breaks will be held on
-[wonder.me](https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a){:target="_blank"},
+Online coffee breaks were held on wonder.me,
 where it is possible to form ad-hoc groups to talk one-on-one or in small
 groups.
 
