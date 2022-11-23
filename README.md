@@ -1,6 +1,6 @@
-# FACS2022
+# VERDI 2023
 
-Website of the FACS2022 conference.
+Website of the VERDI 2022 workshop.
 
 The documentation for the theme is at
 https://github.com/DigitaleGesellschaft/jekyll-theme-conference

@@ -2,14 +2,8 @@
 layout: location
 ---
 
-FACS 2022 presentations and discussion were held online on Zoom.
+VERDI 2023 is a satellite event of [DNS 2023](...), and will take place in (_Palácio da Bolsa_)[...], in Porto, Portugal.
 
-Feedback and discussion from the audience made use of Zoom's chat
-functionality.  Audience members who submitted a question were unmuted for
-follow-up questions.
-
-Online coffee breaks were held on wonder.me,
-where it is possible to form ad-hoc groups to talk one-on-one or in small
-groups.
+...
 
 <!-- You can adapt the design as well as the section shown on the map by copying the `assets/js/main.js` from the theme's repository and editing it. See also the subsection [Location / Room Overview](https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#location--room-overview) section of the theme's README file. -->

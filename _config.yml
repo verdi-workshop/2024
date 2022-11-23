@@ -1,9 +1,9 @@
-title: FACS 2022
+title: VERDI 2023
 preposition: at
 description: >-
-  18th International Conference on Formal Aspects of Component Software, 10-11 November 2022, Oslo, Norway (online)
-baseurl: "/2022" # the subpath of your site, e.g. /blog
-url: "https://facs-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+  International Workshop on Verification & Validation of Dependable Cyber-Physical Systems, 30 June 2023, Porto, Portugal
+baseurl: "/2023" # the subpath of your site, e.g. /blog
+url: "https://verdi-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
@@ -77,8 +77,6 @@ conference:
         relative_url: /location/
       - name: Committees
         relative_url: /committees/
-      - name: Past Editions
-        relative_url: /past-editions/
 
   # Link Preview for Sharing
   link_preview:
@@ -104,7 +102,7 @@ conference:
 
   # # Information boxes
   # info_bars:
-  #   - title: Welcome to the draft website for FACS 2022!
+  #   - title: Welcome to the draft website for VERDI 2023
   #     color: primary
   #     main_only: true
   #     text: |
@@ -130,7 +128,7 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 47.37808, 8.53935
+    home_coord: 41.14139, -8.61567 # 41.14139469481724, -8.615670257312129
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
@@ -142,18 +140,19 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Logics & Semantics
-        color: info
-      - name: Types & Choreographies
-        color: warning
-        # color: danger
-        # color: success
-      - name: Modelling & Verification
-        color: success
-      - name: Invited Talks
-        color: danger
+      # - name: Logics & Semantics
+      #   color: info
+      # - name: Types & Choreographies
+      #   color: warning
+      #   # color: danger
+      #   # color: success
+      # - name: Modelling & Verification
+      #   color: success
+      # - name: Invited Talks
+      #   color: danger
       - name: Organisation
-        color: light
+        color: info
+        # color: light
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -170,7 +169,7 @@ conference:
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
     # Show map on location main page
-    map: false
+    map: true
     # Show navbar with list of rooms (currently only "Zoom")
     hide: false
 

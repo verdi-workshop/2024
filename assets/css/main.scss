@@ -20,7 +20,7 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 }
 
 a {
-  color: #002faf;
+  color: #1c9300ff;
 }
 
 .mb-3, .my-3 {
@@ -36,12 +36,24 @@ a {
 }
 
 .navbar-light {
-  background-color: #c3d3fe !important;
+  background-color: #1b8a01ff !important;
+  .navbar-brand {
+    color: white;
+    font-weight:bold;
+  }
 }
 
+.navbar-nav {
+  .nav-link {
+    color:  white !important;
+    font-weight:bold;
+  } 
+}
+
+
 .dark-nav {
-  color: #fff;
-  font-weight:500;
+  color: #000;
+  font-weight:bold;
 }
 
 img {
@@ -105,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url('../../assets/img/oslo.jpg');
+  background-image: url('../../assets/img/porto.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
