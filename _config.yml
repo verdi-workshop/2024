@@ -1,7 +1,7 @@
 title: VERDI 2023
 preposition: at
 description: >-
-  (Unconfirmed event) International Workshop on Verification & Validation of Dependable Cyber-Physical Systems, 30 June 2023, Porto, Portugal
+  International Workshop on Verification & Validation of Dependable Cyber-Physical Systems, 30 June 2023, Porto, Portugal
 baseurl: "/2023" # the subpath of your site, e.g. /blog
 url: "https://verdi-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
