@@ -2,6 +2,8 @@
 layout: home
 ---
 
+**Draft event - not confirmed**
+
 # About VERDI
 
 Cyber-Physical Systems (CPS) are a class of engineering systems where computation and communication interact with physical processes, providing complex, situation-aware, and often safety-, security-, or mission-critical ecosystems and services. The fast increase and availability of communication bandwidth and computational power, as well as emerging computing paradigms such as Cloud Computing, Edge Computing, and Deep Learning, jare pushing forward CPS research and development, and establishing them as  promising engineering solutions to address challenges arising in areas as diverse as aerospace, automotive, energy, disaster response, health care, smart farming, manufacturing, city management, among others. 
