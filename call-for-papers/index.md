@@ -10,7 +10,7 @@ title: "Call for Papers"
   - Abstract submission deadline: ... (AoE)
   - Paper submission deadline: ... (AoE)
   - Notification: ... (AoE)
->   - Final version due: ... (AoE)
+  - Final version due: ... (AoE)
 
 # Invited Speakers
 
