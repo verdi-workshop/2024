@@ -6,18 +6,7 @@ layout: home
 
 # About VERDI
 
-Cyber-Physical Systems (CPS) are a class of engineering systems where computation and communication interact with physical processes, providing complex, situation-aware, and often safety-, security-, or mission-critical ecosystems and services. The fast increase and availability of communication bandwidth and computational power, as well as emerging computing paradigms such as Cloud Computing, Edge Computing, and Deep Learning, jare pushing forward CPS research and development, and establishing them as  promising engineering solutions to address challenges arising in areas as diverse as aerospace, automotive, energy, disaster response, health care, smart farming, manufacturing, city management, among others. 
-
-A key property that CPS are expected to exhibit is that of dependability, that is, the ability to provide services that can be trusted within well determined time-periods, and equally important, that those service guarantees hold even when the system is subject to faults and attacks. A key ingredient to ensure dependability is thus to successfully apply verification & validation (V&V) techniques and attest the desired levels of safety, security, and privacy. Here V&V refers to the process of determining whether the requirements for a system or component are complete and correct, the products of each development phase fulfil the requirements or conditions imposed by the previous phase, and the final system or component complies with the specified requirements.  This is a challenging task that comes with significant time and cost implications for all the organizations involved in the build-up and evaluation of CPS. This challenge becomes even more critical with the incorporation of more and more Artificial Intelligence models into the operational capabilities of CPS for handling tasks that are increasingly complex.
-
-The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. We welcome submissions in IEEE two-column conference style in two formats: short papers (up to 4 pages) and full papers (up to 8 pages). The topics of interest include, but are not limited to, safety and security analysis of CPS using techniques such as:
-
- - fault/attack-injection, e.g., …;
- - runtime verification, e.g., ; 
- - formal verification, e.g., …;
- - semi-formal analysis;
- - simulation;
- - testing.
+The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. This workshop covers all aspects related to the dependability evaluation (with special focus on __safety__ and __security__) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing. 
 
 
 
@@ -42,6 +31,10 @@ This event is supported by - the Norte Portugal Regional Operational Programme (
 
 <!-- {:class="thanks"}
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com) -->
+
+{:class="thanks"}
+Photo by [Daniel Seßler](https://unsplash.com/@danielsessler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/porto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
