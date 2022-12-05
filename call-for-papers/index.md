@@ -12,10 +12,11 @@ title: "Call for Papers"
   - Notification: ... (AoE)
   - Final version due: ... (AoE)
 
-# Invited Speakers
+
+<!-- # Invited Speakers
 
   - ...
-
+ -->
 
 # Scope
 
@@ -30,18 +31,19 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 
 The workshop covers all aspects related to the dependability evaluation (with special focus on __safety__ and __security__) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing. Topics include, but are not limited to:
 
-- Test space exploration and test space pruning
-- Interplay between safety and security
-- Dependability analysis using simulation and experimental measurement
-- In-the-loop and model-based analysis and assessment
-- Safety/security risk assessment
-- Threats and vulnerability analysis
-- Probabilistic verification and validation
-- Validation and verification methodologies and tools
-- Methods for qualification, assurance and certification
-- Architecture-driven assurance of safety and security
-- Distributed and real-time monitoring and control
-- 
+ - Safety/security risk assessment and assurance
+ - Analysis of threats and vulnerabilities
+ - In-the-loop and model-based analysis and assessment
+ - Architecture-driven assurance of safety and security
+ - Interplay between safety and security
+ - Tools for validation and verification
+ - Dependability analysis using simulation and experimental measurement
+ - Methods for qualification, assurance, and certification
+ - Test space exploration and test space pruning
+ - Distributed and real-time monitoring and control
+ - Analysis of probabilistic, real-time, or hybrid systems
+
+
 # Submissions
 
 We welcome submissions in IEEE two-column conference style in two formats:
@@ -49,15 +51,18 @@ We welcome submissions in IEEE two-column conference style in two formats:
   - __Full papers__ - up to 8 pages
   - __Short papers__ - up to 4 pages
 
-Accepted papers from both categories will be published by ..., in the ... series. 
-The page limit excludes references and appendices. Papers should
+<!-- Accepted papers from both categories will be published by ..., in the ... series.  -->
+The page limit excludes references and appendices.
+<!-- Papers should
 be prepared in LaTeX, adhering to the ... format and Guidelines. For
 further information please visit ...
+ -->
 
 Please use the easychair link below to submit your paper:
   
 - [https://easychair.org/conferences/?conf=verdi2023](https://easychair.org/conferences/?conf=facs2022){:target="_blank"}
 
 
-All submissions in categories __A__ and __B__ must be original, unpublished,
+<!-- All submissions in categories __A__ and __B__ must be original, unpublished,
 and not submitted concurrently for publication elsewhere...
+ -->

@@ -67,12 +67,12 @@ conference:
     links:
       - name: Call for Papers
         relative_url: /call-for-papers/
-      - name: Program
-        relative_url: /program/
+      # - name: Program
+      #   relative_url: /program/
       # - name: Talks
         # relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
+      # - name: Speakers
+      #   relative_url: /speakers/
       - name: Location
         relative_url: /location/
       - name: Committees
