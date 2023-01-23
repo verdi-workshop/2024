@@ -5,7 +5,7 @@ title: "Call for Papers"
 
 
 
-# Important Dates
+# Important Dates (TBD)
 
   - Abstract submission deadline: ... (AoE)
   - Paper submission deadline: ... (AoE)
@@ -46,22 +46,27 @@ The workshop covers all aspects related to the dependability evaluation (with sp
 
 # Submissions
 
+(TBD)
+
+<!-- 
 We welcome submissions in IEEE two-column conference style in two formats:
 
   - __Full papers__ - up to 8 pages
   - __Short papers__ - up to 4 pages
+ -->
 
 <!-- Accepted papers from both categories will be published by ..., in the ... series.  -->
-The page limit excludes references and appendices.
+<!-- The page limit excludes references and appendices. -->
 <!-- Papers should
 be prepared in LaTeX, adhering to the ... format and Guidelines. For
 further information please visit ...
  -->
 
+<!-- 
 Please use the easychair link below to submit your paper:
   
 - [https://easychair.org/conferences/?conf=verdi2023](https://easychair.org/conferences/?conf=facs2022){:target="_blank"}
-
+ -->
 
 <!-- All submissions in categories __A__ and __B__ must be original, unpublished,
 and not submitted concurrently for publication elsewhere...

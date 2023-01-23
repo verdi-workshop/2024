@@ -2,8 +2,6 @@
 layout: home
 ---
 
-**Draft event - not confirmed**
-
 # About VERDI
 
 The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. This workshop covers all aspects related to the dependability evaluation (with special focus on __safety__ and __security__) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing. 
