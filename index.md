@@ -1,15 +1,16 @@
 ---
 layout: home
+title: VERDI 2023
 ---
 
-# Important Dates (AoE)
+## Important Dates
 
-  - Paper submission: March 28
-  - Notification: April 21
-  - Final version: May 5
+  - Paper submission: March 28 (AoE)
+  - Notification: April 21 (AoE)
+  - Final version: May 5 (AoE)
 
 
-# About VERDI
+## About VERDI
 
 The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. This workshop covers all aspects related to the dependability evaluation (with special focus on __safety__ and __security__) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing. 
 
@@ -18,7 +19,7 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 <!-- See publish.twitter.com, https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/profile-timeline -->
 <!-- <a class="twitter-timeline"  data-width="600" data-height="600" data-chrome="nofooter" dnt="true" href="https://twitter.com/verdi_workshop?ref_src=twsrc%5Etfw">Tweets by verdi_workshop</a> -->
 
-# Support
+## Support
 
 {:style="text-align:center;"}
 [![logo](assets/img/logo-VALU3S.png "logo")](https://valu3s.eu/){:target="blank"}
