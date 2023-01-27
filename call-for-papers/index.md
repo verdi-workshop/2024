@@ -7,7 +7,7 @@ title: "Call for Papers"
 
 # Important Dates (AoE)
 
-  - Paper submission deadline: March 28
+  - Paper submission: March 28
   - Notification: April 21
   - Final version: May 5
 
