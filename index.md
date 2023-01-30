@@ -28,8 +28,8 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 [![logo](assets/img/logo-RISE.png "logo")](https://www.ri.se/en/){:target="blank"}
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
 <!-- [![logo](assets/img/logo-FCT1-norte2020.png "logoSmall")](http://norte2020.pt/){:target="blank"} -->
-<!-- [![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"} -->
-[![logo](assets/img/logo-emsig.png "logo")](http://www.emsig.net/emsig.net/){:target="blank"}
+[![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
+<!-- [![logo](assets/img/logo-emsig.png "logo")](http://www.emsig.net/emsig.net/){:target="blank"} -->
 <!-- [![logo](assets/img/logo-FCT2-pt2020.png "logoSmall")](https://www.portugal2020.pt/Portal2020){:target="blank"} -->
 
 {:class="thanks"}
