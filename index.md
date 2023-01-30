@@ -42,11 +42,11 @@ This event has received funding from the ECSEL Joint Undertaking (JU) under gran
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com) -->
 
 {:class="thanks"}
-Photo by [Daniel Seßler](https://unsplash.com/@danielsessler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/porto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-{:class="thanks"}
 Disclaimer: the ECSEL JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.
 
+
+{:class="thanks"}
+Photo by [Daniel Seßler](https://unsplash.com/@danielsessler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/porto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
 <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
