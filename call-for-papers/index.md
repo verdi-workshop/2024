@@ -50,7 +50,7 @@ We welcome submissions in IEEE two-column conference style in two formats:
   - __Full papers__ - up to 8 pages
   - __Short papers__ - up to 4 pages
 
-Accepted papers (regular and position) will be
+Accepted papers (full and short) will be
 published in the DSN supplemental volume and made
 available in IEEE Xplore.
 
