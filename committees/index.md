@@ -3,8 +3,7 @@ layout: post
 title: "Committees"
 ---
 
-# Program Committee (incomplete)
-
+# Program Committee (to be finalised)
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
