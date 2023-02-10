@@ -50,6 +50,7 @@ We welcome submissions in IEEE two-column conference style in two formats:
   - __Full papers__ - up to 8 pages
   - __Short papers__ - up to 4 pages
 
+The page limit includes references. 
 Accepted papers (full and short) will be
 published in the DSN supplemental volume and made
 available in IEEE Xplore.
@@ -61,11 +62,13 @@ be prepared in LaTeX, adhering to the ... format and Guidelines. For
 further information please visit ...
  -->
 
-<!-- 
-Please use the easychair link below to submit your paper:
+Please use the EasyChair link below to submit your paper, selecting the track allocated to VERDI 2023:
   
-- [https://easychair.org/conferences/?conf=verdi2023](https://easychair.org/conferences/?conf=facs2022){:target="_blank"}
- -->
+- [https://easychair.org/conferences/?conf=dsn2023]( https://easychair.org/conferences/?conf=dsn2023){:target="_blank"}
+
+All submissions should be made in PDF and must adhere to the IEEE Computer Society 8.5"x11" two-column camera-ready format (using a 10-point font on 12- point single-spaced leading). Templates are available at [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}.
+
+Reviewing is single-blind. The names and affiliations of authors must appear in the submitted papers. Submissions not respecting format requirements may be rejected without review.
 
 <!-- All submissions in categories __A__ and __B__ must be original, unpublished,
 and not submitted concurrently for publication elsewhere...
