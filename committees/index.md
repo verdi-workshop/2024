@@ -21,12 +21,14 @@ title: "Committees"
  - [Karthik Pattabiraman](http://blogs.ubc.ca/karthik), The University of British Columbia, Canada
  - [Antonio Pecchia](), Università degli Studi del Sannio, Italy
  - [Peter Popov](http://www.csr.city.ac.uk/staff/popov/), City University, United Kingdom
+ - [Juan Carlos Ruiz](), Universitat Politècnica de València, Spain
  - [Horst Schirmeier](https://tu-dresden.de/ing/informatik/sya/professur-fuer-betriebssysteme/), TU Dresden, Germany
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
  - [Stefano Tonetta](http://es.fbk.eu/people/tonetta), FBK-ICT, Italy
  - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
+ 
  
  <!-- - [Name](...), Affiliation, Country -->
 
