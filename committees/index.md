@@ -7,6 +7,7 @@ title: "Committees"
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
+ - [Thomas Bauer](), Fraunhofer, Germany
  - [Stylianos Basagiannis](), Collins Aerospace, Applied Research & Technology, Ireland
  - [Marcello Cinque](), Universit di Napoli Federico II, Italy
  - [Jose Luis de la Vara](http://www.delavara.es), University of Castilla-La Mancha, Spain
@@ -24,6 +25,7 @@ title: "Committees"
  - [Juan Carlos Ruiz](), Universitat Politècnica de València, Spain
  - [Horst Schirmeier](https://tu-dresden.de/ing/informatik/sya/professur-fuer-betriebssysteme/), TU Dresden, Germany
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
+ - [Aleš Smrčka](https://scholar.google.com/citations?user=2z7fFiYAAAAJ),  Brno University of Technology, Czech Republic
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
  - [Stefano Tonetta](http://es.fbk.eu/people/tonetta), FBK-ICT, Italy
