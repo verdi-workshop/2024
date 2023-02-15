@@ -15,6 +15,7 @@ title: "Committees"
  - [Marie Farrell](), The University of Manchester, United Kingdom
  - [Peter Folkesson](), RISE, Sweden
  - [Barbara Gallina](), Mälardalen University, Sweden
+ - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Nasser Nowdehi](), Volvo AB, Sweden
