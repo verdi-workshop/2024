@@ -11,7 +11,7 @@ title: "Committees"
  - [Stylianos Basagiannis](), Collins Aerospace, Applied Research & Technology, Ireland
  - [Marcello Cinque](), Universit di Napoli Federico II, Italy
  - [Jose Luis de la Vara](http://www.delavara.es), University of Castilla-La Mancha, Spain
- - [André De Matos Pedro](), University of Minho, Portugal
+ - [André De Matos Pedro](), VORTEX-CoLab, Portugal
  - [Marie Farrell](), The University of Manchester, United Kingdom
  - [Peter Folkesson](), RISE, Sweden
  - [Barbara Gallina](), Mälardalen University, Sweden
