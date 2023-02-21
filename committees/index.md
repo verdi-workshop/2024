@@ -7,7 +7,7 @@ title: "Committees"
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
- - [Stylianos Basagiannis](), Collins Aerospace, Applied Research & Technology, Ireland
+ - [Stylianos Basagiannis](), Collins Aerospace, Ireland
  - [Thomas Bauer](), Fraunhofer, Germany
  - [Marcello Cinque](), Universit di Napoli Federico II, Italy
  - [Jose Luis de la Vara](http://www.delavara.es), University of Castilla-La Mancha, Spain
