@@ -3,62 +3,22 @@ layout: speaker-overview
 title: ""
 ---
 
-<!-- # Invited Speakers
+# Invited Speakers
 
 <div class="container">
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
-        <a href="/2022/speakers/christelbaier/">
+        <a href="/2023/speakers/karthikpattabiraman/">
             <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-christelbaier.jpg" alt="Christel Baier" title="Christel Baier" width="150"/>
+            <img src="/2023/assets/img/people/karthikpattabiraman.jpg" alt="Karthik Pattabiraman" title="Karthik Pattabiraman" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Christel Baier <br/>
-        <b>Affiliation:</b> TU Dresden, Germany <br/>
-        </p>
-    </div>
-</div>
-<div class="row justify-content-start p-3">
-    <div class="col-sm-2">
-        <a href="/2022/speakers/renatoneves/">
-            <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-renatoneves.jpg" alt="Renato Neves" title="Renato Neves" width="150"/>
-        </a>
-    </div>
-    <div class="col-sm-10">
-        <p><b>Name:</b> Renato Neves <br/>
-        <b>Affiliation:</b> University of Minho, Portugal <br/>
-        </p>
-    </div>
-</div>
-<div class="row justify-content-start p-3">
-    <div class="col-sm-2">
-        <a href="/2022/speakers/inaschaefer/">
-            <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-inaschaefer.jpg" alt="Ina Schaefer" title="Ina Schaefer" width="150"/>
-        </a>
-    </div>
-    <div class="col-sm-10">
-        <p><b>Name:</b> Ina Schaefer <br/>
-        <b>Affiliation:</b> Karlsruhe IT, Germany <br/>
-        <b>Topic:</b> Correctness-by-Construction Engineering - Can we build better software? </p>
-    </div>
-</div>
-<div class="row justify-content-start p-3">
-    <div class="col-sm-2">
-        <a href="/2022/speakers/volkerstolz/">
-            <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-volkerstolz.jpg" alt="Volker Stolz" title="Volker Stolz" width="150"/>
-        </a>
-    </div>
-    <div class="col-sm-10">
-        <p><b>Name:</b> Volker Stolz <br/>
-        <b>Affiliation:</b> Norway University of Applied Science, Norway <br/>
+        <p><b>Name:</b> Karthik Pattabiraman <br/>
+        <b>Affiliation:</b> University of British Columbia, Germany <br/>
         </p>
     </div>
 </div>
 </div>
 
-# All Authors
- -->
+# All Speakers

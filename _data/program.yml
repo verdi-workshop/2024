@@ -6,13 +6,17 @@ days:
     abbr: Fri
     date: 2023-06-30
     rooms:
-      - name: Room
+      # - name: Palácio da Bolsa
+      # - name: Room
         # talks:
 
-        #   # Welcome
-        #   - name: 'Welcome to VERDI 2023'
-        #     time_start: '09:00'
-        #     time_end: '09:30'
+          # Welcome
+          # - name: 'Welcome to VERDI 2023'
+          #   time_start: '09:00'
+          #   time_end: '09:30'
+          # - name: 'Fault Injection is Dead. Long Live Fault Injection!'
+          #   time_start: '09:30'
+          #   time_end: '10:30'
 
 
 
