@@ -62,7 +62,7 @@ be prepared in LaTeX, adhering to the ... format and Guidelines. For
 further information please visit ...
  -->
 
-Please use the EasyChair link below to submit your paper, selecting the track allocated to VERDI 2023:
+Please use the EasyChair link below to submit your paper, selecting the track allocated to VERDI 2023 of the DSN 2023 conference:
   
 - [https://easychair.org/conferences/?conf=dsn2023]( https://easychair.org/conferences/?conf=dsn2023){:target="_blank"}
 
