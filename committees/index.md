@@ -17,6 +17,7 @@ title: "Committees"
  - [Barbara Gallina](), Mälardalen University, Sweden
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
+ - [André Lourenço](https://www.linkedin.com/in/arlourenco/), Cardio ID, Portugal
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Maurizio Mongelli](https://publications.cnr.it/authors/maurizio.mongelli), CNR-IEIIT, Italy
  - [Nasser Nowdehi](), Volvo AB, Sweden
