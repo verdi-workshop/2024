@@ -3,10 +3,10 @@ layout: home
 title: VERDI 2023
 ---
 
-## Important Dates
+## Important dates (extended)
 
-  - Paper submission: March 28 (AoE)
-  - Notification: April 21 (AoE)
+  - Paper submission: __April 7__ ~~March 28~~ (AoE)
+  - Notification: __Abril 16__ ~~April 21~~ (AoE)
   - Final version: May 5 (AoE)
 
 
