@@ -1,5 +1,5 @@
 ---
-# layout: speaker-overview  # uncomment to add list of all speakers in the end.
+layout: speaker-overview  # uncomment to add list of all speakers in the end.
 title: ""
 ---
 
@@ -37,4 +37,4 @@ This is joint work with my students and colleagues at UBC, and industry collabor
 </div>
 </div>
 
-<!-- # All Speakers -->
+# All Authors

@@ -7,21 +7,51 @@ days:
     date: 2023-06-30
     rooms:
       # - name: Palácio da Bolsa
-      # - name: Room
-        # talks:
-
+      - name: Room
+        talks:
+          - name: 'Fault Injection is Dead. Long Live Fault Injection!'
+            time_start: '09:30'
+            time_end: '10:30'
           # Welcome
-          # - name: 'Welcome to VERDI 2023'
-          #   time_start: '09:00'
-          #   time_end: '09:30'
-          # - name: 'Fault Injection is Dead. Long Live Fault Injection!'
-          #   time_start: '09:30'
-          #   time_end: '10:30'
-
-
-
-          
-
-
-
-
+          - name: 'Formalizing Model Inference of MicroPython'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'SIMoT: A Low-fidelity Orchestrator Simulator for Task Allocation in IoT Devices'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Timeseries-aware Uncertainty Wrappers for Uncertainty Quantification of Information-Fusion-Enhanced AI Models based on Machine Learning'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'RISC-V Timing-Instructions for Open Time-Triggered Architectures'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Using AI to Inject Vulnerabilities in Python Code'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Formal Verification for Safe AI-based Flight Planning for UAVs'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'SMT-Based Stability Verification of an Industrial Switched PI Control Systems'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Translating Natural Language Requirements to Formal Specifications: A Study on GPT and Symbolic NLP'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Simplifying Requirements Formalization for Resource-Constrained Mission-Critical Software'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Evaluating the Safety Impact of Network Disturbances for Remote Driving with Simulation-Based Human-in-the-Loop Testing'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Modelling V&amp;V Workflows to Improve Development Processes of Software-intensive Systems'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'llhsc: A Devicetree Syntax and Semantic Checker'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'Preliminary Risk and Mitigation Assessment in Cyber-Physical Systems'
+            time_start: '0:00'
+            time_end: '0:00'
+          - name: 'NetLoiter: A Tool for Automated Testing of Network Applications using Fault-injection'
+            time_start: '0:00'
+            time_end: '0:00'
