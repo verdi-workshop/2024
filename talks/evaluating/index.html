@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Evaluating the Safety Impact of Network Disturbances for Remote Driving with Simulation-Based Human-in-the-Loop Testing - VERDI 2023</title>
+  <meta name="description" content="Talk by Shrishti Trivedi and Fredrik Warg at VERDI 2023" />
+
+  <meta name="theme-color" content="1b8a01ff">
+  <link rel="shortcut icon" type="image/png" href="/2023/assets/icons/favicon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/2023/assets/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/2023/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/2023/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/2023/assets/icons/favicon.svg" color="#1b8a01ff">
+  <link rel="manifest" href="/2023/assets/icons/site.webmanifest">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:image" content="https://verdi-workshop.github.io/2023/assets/images/twitter_preview.png" />
+  <meta name="twitter:title" content="Evaluating the Safety Impact of Network Disturbances for Remote Driving with Simulation-Based Human-in-the-Loop Testing" />
+  <meta name="twitter:description" content="Talk by Shrishti Trivedi and Fredrik Warg at VERDI 2023" />
+
+  <meta property="og:site_name" content="VERDI 2023" />
+  <meta property="og:image" content="https://verdi-workshop.github.io/2023/assets/images/facebook_preview.png" />
+  <meta property="og:url" content="https://verdi-workshop.github.io/2023/talks/evaluating/" />
+  <meta property="og:title" content="Evaluating the Safety Impact of Network Disturbances for Remote Driving with Simulation-Based Human-in-the-Loop Testing" />
+  <meta property="og:description" content="Talk by Shrishti Trivedi and Fredrik Warg at VERDI 2023" />
+  <meta property="og:type" content="website" />
+
+  <link rel="stylesheet" href="/2023/assets/css/main.css?t=1682720510" />
+
+  <link rel="preload" as="font" href="/2023/assets/webfonts/fa-regular-400.woff2" type="font/woff2" crossorigin="anonymous" />
+  <link rel="preload" as="font" href="/2023/assets/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous" />
+</head>
+
+<body class="pb-4">
+  <header>
+    <!-- navigation bar (web only): --><nav class="navbar navbar-expand-md navbar-light bg-light mb-3">
+  <div class="container">
+
+    <a class="navbar-brand" href="/2023/">VERDI 2023</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+            <li class="nav-item "><a class="nav-link" href="/2023/call-for-papers/" title="Call for Papers">
+                Call for Papers
+              </a>
+            </li>
+            <li class="nav-item active"><a class="nav-link" href="/2023/talks/" title="Accepted papers">
+                Accepted papers
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/2023/speakers/" title="Speakers">
+                Speakers
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/2023/location/" title="Location">
+                Location
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/2023/committees/" title="Committees">
+                Committees
+              </a>
+            </li>
+      </ul>
+    </div>
+
+  </div>
+</nav><!-- site title (print only): -->
+      <div class="container d-none d-print-block mt-4 mb-4">
+        <h1 class="display-4">
+          VERDI 2023
+        </h1>
+      </div></header>
+  <main class="container"><div class="d-flex flex-lg-row flex-column container-fluid mb-2 p-0">
+    <div class="h6 mt-2 mb-0 mr-1 pr-1 pb-1">
+      
+      <span class="p-1 pl-2 pr-2 border-soft-success bg-soft-success font-weight-normal">
+        Regular papers
+      </span>
+    </div>
+
+    
+  </div>
+
+  <h1 class="font-weight-light">Evaluating the Safety Impact of Network Disturbances for Remote Driving with Simulation-Based Human-in-the-Loop Testing</h1>
+
+  <p class="mb-3 font-weight-light">
+    <a class="text-reset" href="/2023/speakers/shrishtitrivedi/">Shrishti Trivedi</a>, <a class="text-reset" href="/2023/speakers/fredrikwarg/">Fredrik Warg</a>
+  </p>
+
+  <div class="mb-3 p-0">
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <span class="d-none d-sm-inline">attt</span> <a href="/2023/program" class="badge badge-light font-weight-normal text-left ">
+  <i class="far fa-clock"></i>&nbsp;0:00</a><span class="d-none d-sm-inline ml-1">in</span> <a href="/2023/rooms/room/" class="badge badge-light font-weight-normal"><i class="far fa-square"></i>&nbsp;Room</a><span class="d-none d-sm-inline ml-1">for</span> <span class="badge badge-light font-weight-normal text-left">
+  <i class="fas fa-stopwatch"></i>&nbsp;0min
+</span>
+
+        
+        
+        
+        
+        
+      
+    
+  </div>
+
+  <p>One vital safety aspect of advanced vehicle features is ensuring that the interaction with human users will not cause accidents. For remote driving, the human operator is physically removed from the vehicle, instead controlling it from a remote control station over a wireless network. This work presents a methodology to inject network disturbances into this communication and analyse the effects on vehicle manoeuvrability. A driving simulator, CARLA, was connected to a driving station to allow human-in-the-loop testing. NETEM was used to inject faults to emulate network disturbances. Time-to-collision (TTC) and Steering Reversal Rate (SRR) were used as the main metrics to assess manoeuvrability. Clear negative effects on the ability to safely control the vehicle were observed on both TTC and SRR for 5% packet loss, and collision analysis shows that 50 ms communication delay and 5% packet loss resulted in crashes for our test setup. The presented methodology can be used as part of a safety evaluation or in the design loop of remote driving or remote assistance vehicle features.</p>
+
+
+
+  
+
+  
+
+  
+
+  <p class="d-print-none mt-5">
+    <a href="/2023/talks" class="btn btn-light">
+      <i class="fas fa-bullhorn"></i>&nbsp;Overview
+    </a>
+
+    <a href="/2023/program" class="btn btn-light">
+      <i class="far fa-calendar-alt"></i>&nbsp;Program
+    </a>
+  </p>
+  </main>
+  <footer class="container"></footer><div class="modal fade" id="link-modal" tabindex="-1" role="dialog" aria-labelledby="link-modal-label" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="modal-title" id="link-modal-label">
+          <h3 class="mb-2 font-weight-light"></h3>
+          <h5 class="mb-0 font-weight-light"></h5>
+        </div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+      </div>
+      <div class="modal-footer justify-content-start">
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Append build time to avoid caching of live program embedded in JavaScript file -->
+  <script src="/2023/assets/js/main.js?t=1682720510"></script>
+
+</body>
+</html>
