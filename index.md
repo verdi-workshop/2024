@@ -13,6 +13,7 @@ title: VERDI 2023
 ## Invited speakers
 
   - [Karthik Pattabiraman](speakers/karthikpattabiraman/), University of British Columbia, Canada
+  - [José Bacelar Almeida](speakers/josebacelaralmeida/), University of Minho, Portugal
 
 
 

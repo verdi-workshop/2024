@@ -35,6 +35,32 @@ Fault injection (FI), or fault simulation, is one of the most popular methods to
 This is joint work with my students and colleagues at UBC, and industry collaborators.
       </div>
 </div>
+
+
+
+<div class="row justify-content-start p-3">
+    <div class="col-sm-2" style="text-align: center; margin-bottom: 1.3em;">
+        <a href="/2023/speakers/josebacelaralmeida/">
+            <div class="speakers-hover"></div>
+            <img src="/2023/assets/img/people/josebacelaralmeida.jpg" alt="José Bacelar Almeida" title="José Bacelar Almeida" width="150"/>
+        </a>
+    </div>
+      <div class="col-sm-10">
+        <h2 style="margin-top: 0px;"> José Bacelar Almeida </h2>
+      
+      José Bacelar Almeida currently an Assistant Professor at the Department of Informatics at Universidade do Minho and researcher at HASLab/INESC TEC. He obtained my PhD degree in Computer Science from this university in 2003. His research interests lie in Cryptography  and Information Security and its intersection with Program Verification. 
+      
+      He has been working on the development of high-assurance cryptographic implementations for the last 10 years, aiming to bridge the gap between theoretical security and real-world security. He is particularly interested in provable security and its interplay with the formal verification of cryptographic proofs and cryptographic software implementations. 
+
+<!-- 
+        <h3> Title TBA </h3>
+        <b>Abstract:</b>
+        TBA
+ -->
+      </div>
+
+
+</div>
 </div>
 
 # All Authors

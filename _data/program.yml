@@ -10,8 +10,8 @@ days:
       - name: Room
         talks:
           - name: 'Fault Injection is Dead. Long Live Fault Injection!'
-            time_start: '09:30'
-            time_end: '10:30'
+            time_start: '0:00'
+            time_end: '0:00'
           # Welcome
           - name: 'Formalizing Model Inference of MicroPython'
             time_start: '0:00'
