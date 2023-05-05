@@ -5,7 +5,7 @@ speakers:
   - Francisco Martins 
 name: 'Formalizing Model Inference of MicroPython'
 categories:
-  - Short papers
+  - Regular papers
 ---
 
 
