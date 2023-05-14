@@ -12,6 +12,9 @@ days:
           - name: 'Fault Injection is Dead. Long Live Fault Injection!'
             time_start: '0:00'
             time_end: '0:00'
+          - name: 'Jasmin/EasyCrypt — a framework for high-assurance software development'
+            time_start: '0:00'
+            time_end: '0:00'
           # Welcome
           - name: 'Formalizing Model Inference of MicroPython'
             time_start: '0:00'
