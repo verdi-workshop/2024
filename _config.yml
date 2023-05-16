@@ -69,10 +69,10 @@ conference:
     links:
       - name: Call for Papers
         relative_url: /call-for-papers/
-      # - name: Program
-      #   relative_url: /program/
       - name: Accepted papers
         relative_url: /talks/
+      - name: Program
+        relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
       - name: Location
@@ -181,7 +181,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 30 # in minutes
+    time_steps: 5 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
