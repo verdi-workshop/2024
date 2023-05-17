@@ -152,8 +152,8 @@ conference:
       #   color: success
       - name: Invited Talks
         color: danger
-      # - name: Organisation
-      #   color: info
+      - name: Organisation
+        color: warning
         # color: light
       # Colors: info, warning, danger, success
 
