@@ -7,7 +7,8 @@ speakers:
   - Katia di Blasio
   - Zain Shahwar 
 categories:
-  - Short papers
+  - Session 2
+  - Short paper
 ---
 
 

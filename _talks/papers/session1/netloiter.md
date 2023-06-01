@@ -3,8 +3,10 @@ speakers:
   - Aleš Smrčka
   - Michal Rozsíval 
 name: 'NetLoiter: A Tool for Automated Testing of Network Applications using Fault-injection'
+room: 'Assembleias Gerais'
 categories:
-  - Short papers
+  - Session 1
+  - Short paper
 ---
 
 

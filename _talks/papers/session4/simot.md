@@ -7,7 +7,7 @@ speakers:
   - Hugo Sereno Ferreira 
 name: 'SIMoT: A Low-fidelity Orchestrator Simulator for Task Allocation in IoT Devices'
 categories:
-  - Regular papers
+  - Session 4
 ---
 
 

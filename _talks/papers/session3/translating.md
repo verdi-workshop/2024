@@ -4,7 +4,8 @@ speakers:
   - Raul Barbosa 
 name: 'Translating Natural Language Requirements to Formal Specifications: A Study on GPT and Symbolic NLP'
 categories:
-  - Short papers
+  - Session 3
+  - Short paper
 ---
 
 

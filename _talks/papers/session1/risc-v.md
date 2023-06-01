@@ -4,7 +4,8 @@ speakers:
   - Gregor Nitsche 
 name: 'RISC-V Timing-Instructions for Open Time-Triggered Architectures'
 categories:
-  - Short papers
+  - Session 1
+  - Short paper
 ---
 
 

@@ -7,7 +7,7 @@ speakers:
   - Riqaq Woolnough
 name: 'Formal Verification for Safe AI-based Flight Planning for UAVs'
 categories:
-  - Regular papers
+  - Session 4
 ---
 
 

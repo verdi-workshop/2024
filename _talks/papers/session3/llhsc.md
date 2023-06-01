@@ -4,7 +4,7 @@ speakers:
   - André Matos Pedro 
 name: 'llhsc: A Devicetree Syntax and Semantic Checker'
 categories:
-  - Regular papers
+  - Session 3
 ---
 
 

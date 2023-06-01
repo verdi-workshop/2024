@@ -4,7 +4,7 @@ layout: program
 
 <ul class="nav justify-content-center mb-3 btn-group" id="day-list" role="tablist">
         <li class="nav-item" role="presentation">
-          <a class="nav-link btn btn-outline-secondary active" id="tab-fri" data-toggle="tab" data-date="2023-06-27" href="#fri" role="tab" aria-controls="fri" aria-selected="true">Friday, 27 June</a>
+          <a class="nav-link btn btn-outline-secondary active" id="tab-tue" data-toggle="tab" data-date="2023-06-27" href="#tue" role="tab" aria-controls="tue" aria-selected="true">Tuesday, 27 June</a>
         </li>
     </ul>
 

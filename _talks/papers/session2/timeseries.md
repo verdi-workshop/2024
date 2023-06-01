@@ -6,7 +6,7 @@ speakers:
   - Pascal Gerber 
 name: 'Timeseries-aware Uncertainty Wrappers for Uncertainty Quantification of Information-Fusion-Enhanced AI Models based on Machine Learning'
 categories:
-  - Regular papers
+  - Session 2
 ---
 
 

@@ -144,16 +144,24 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Regular papers
-        color: success
-      - name: Short papers
-        color: info
-      # - name: Modelling & Verification
-      #   color: success
       - name: Invited Talks
         color: danger
-      - name: Organisation
+      - name: Session 1
+        color: success
+      - name: Session 2
         color: warning
+      - name: Session 3
+        color: dark
+      - name: Session 4
+        color: info
+      # - name: Regular papers
+      #   color: success
+      # - name: Short papers
+      #   color: warning
+      # - name: Modelling & Verification
+      #   color: success
+      - name: Organisation
+        color: light
         # color: light
       # Colors: info, warning, danger, success
 

@@ -5,7 +5,7 @@ speakers:
   - András Pataricza 
 name: 'Preliminary Risk and Mitigation Assessment in Cyber-Physical Systems'
 categories:
-  - Regular papers
+  - Session 4
 ---
 
 
