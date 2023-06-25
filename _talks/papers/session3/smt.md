@@ -11,7 +11,7 @@ speakers:
   - Vassilios Tsachouridis 
 name: 'SMT-Based Stability Verification of an Industrial Switched PI Control Systems'
 categories:
-  - Session 3
+  - 'Session 3 (chair: David Pereira)'
 ---
 
 

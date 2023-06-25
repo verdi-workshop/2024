@@ -5,7 +5,7 @@ speakers:
   - José Fonseca 
 name: 'Using AI to Inject Vulnerabilities in Python Code'
 categories:
-  - Session 2
+  - 'Session 2 (chair: Aleš Smrčka)'
 ---
 
 

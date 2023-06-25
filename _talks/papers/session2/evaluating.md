@@ -1,7 +1,7 @@
 ---
 name: 'Evaluating the Safety Impact of Network Disturbances for Remote Driving with Simulation-Based Human-in-the-Loop Testing'
 categories:
-  - Session 2
+  - 'Session 2 (chair: Aleš Smrčka)'
 speakers:
   - Shrishti Trivedi
   - Fredrik Warg 

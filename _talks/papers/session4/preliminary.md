@@ -5,7 +5,7 @@ speakers:
   - András Pataricza 
 name: 'Preliminary Risk and Mitigation Assessment in Cyber-Physical Systems'
 categories:
-  - Session 4
+  - 'Session 4 (chair: Stefano Tonetta)'
 ---
 
 

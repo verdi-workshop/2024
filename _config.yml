@@ -146,13 +146,13 @@ conference:
     main_categories:
       - name: Invited Talks
         color: danger
-      - name: Session 1
+      - name: 'Session 1 (chair: Horst Schirmeier)'
         color: success
-      - name: Session 2
+      - name: 'Session 2 (chair: Aleš Smrčka)'
         color: warning
-      - name: Session 3
+      - name: 'Session 3 (chair: David Pereira)'
         color: dark
-      - name: Session 4
+      - name: 'Session 4 (chair: Stefano Tonetta)'
         color: info
       # - name: Regular papers
       #   color: success

@@ -5,7 +5,7 @@ speakers:
 name: 'NetLoiter: A Tool for Automated Testing of Network Applications using Fault-injection'
 room: 'Assembleias Gerais'
 categories:
-  - Session 1
+  - 'Session 1 (chair: Horst Schirmeier)'
   - Short paper
 ---
 

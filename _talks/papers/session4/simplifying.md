@@ -6,7 +6,7 @@ speakers:
   - Francisco Martins 
 name: 'Simplifying Requirements Formalization for Resource-Constrained Mission-Critical Software'
 categories:
-  - Session 4
+  - 'Session 4 (chair: Stefano Tonetta)'
   - Short paper
 ---
 

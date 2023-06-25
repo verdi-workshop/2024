@@ -5,7 +5,7 @@ speakers:
   - Francisco Martins 
 name: 'Formalizing Model Inference of MicroPython'
 categories:
-  - Session 4
+  - 'Session 4 (chair: Stefano Tonetta)'
 ---
 
 

@@ -7,7 +7,7 @@ speakers:
   - Riqaq Woolnough
 name: 'Formal Verification for Safe AI-based Flight Planning for UAVs'
 categories:
-  - Session 4
+  - 'Session 4 (chair: Stefano Tonetta)'
 ---
 
 
