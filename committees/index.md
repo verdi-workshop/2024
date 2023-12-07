@@ -4,6 +4,9 @@ title: "Committees"
 ---
 
 # Program Committee
+ - tbd
+
+<!--
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
@@ -35,13 +38,13 @@ title: "Committees"
  - [Stefano Tonetta](http://es.fbk.eu/people/tonetta), FBK-ICT, Italy
  - [Martin Törngren](https://www.kth.se/profile/martint/), KTH Royal Institute of Technology, Sweden
  - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
- 
+ --> 
  
  <!-- - [Name](...), Affiliation, Country -->
 
 # Organisers and Program Chairs
 
  - [David Pereira](https://cister-labs.pt/people/david_pereira/), Polytechnic Institute of Porto, Portugal
- - [José Proença](https://jose.proenca.org/), Polytechnic Institute of Porto, Portugal
+ - [José Proença](https://jose.proenca.org/), University of Porto, Portugal
  - [Behrooz Sangchoolie](https://www.ri.se/en/person/behrooz-sangchoolie), RISE Research Institutes of Sweden, Borås, Sweden
 

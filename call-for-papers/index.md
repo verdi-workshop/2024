@@ -4,14 +4,14 @@ title: "Call for Papers"
 ---
 
 
-
+<!-- 
 # Important dates (extended)
 
   - Paper submission: __April 7__ ~~March 28~~ (AoE)
   - Notification: __April 26__ ~~April 21~~ (AoE)
   - Final version: May 5 (AoE)
 
-
+ -->
 <!-- # Invited Speakers
 
   - ...
@@ -61,10 +61,11 @@ available in IEEE Xplore.
 be prepared in LaTeX, adhering to the ... format and Guidelines. For
 further information please visit ...
  -->
-
+<!-- 
 Please use the EasyChair link below to submit your paper, selecting the track allocated to VERDI 2023 of the DSN 2023 conference:
   
 - [https://easychair.org/conferences/?conf=dsn2023]( https://easychair.org/conferences/?conf=dsn2023){:target="_blank"}
+ -->
 
 All submissions should be made in PDF and must adhere to the IEEE Computer Society 8.5"x11" two-column camera-ready format (using a 10-point font on 12- point single-spaced leading). Templates are available at [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}.
 

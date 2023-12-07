@@ -1,8 +1,9 @@
-title: VERDI 2023
+title: VERDI 2024
 preposition: at
 description: >-
-  International Workshop on Verification & Validation of Dependable Cyber-Physical Systems, 30 June 2023, Porto, Portugal
-baseurl: "/2023" # the subpath of your site, e.g. /blog
+  2nd International Workshop on Verification & Validation of Dependable Cyber-Physical Systems
+#  , June 2024, Porto, Portugal
+baseurl: "/2024" # the subpath of your site, e.g. /blog
 url: "https://verdi-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 #theme: jekyll-theme-conference
@@ -23,33 +24,33 @@ exclude:
   - vendor
 
 # Collections and their defaults
-collections:
-  talks:
-    output: true
-    permalink: /:collection/:title/
-  speakers:
-    output: true
-    permalink: /:collection/:title/
-  rooms:
-    output: true
-    permalink: /:collection/:title/
+# collections:
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:title/
+  # speakers:
+  #   output: true
+  #   permalink: /:collection/:title/
+  # rooms:
+  #   output: true
+  #   permalink: /:collection/:title/
 
-defaults:
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-  - scope:
-      path: ""
-      type: speakers
-    values:
-      layout: speaker
-  - scope:
-      path: ""
-      type: rooms
-    values:
-      layout: room
+# defaults:
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#   - scope:
+#       path: ""
+#       type: speakers
+#     values:
+#       layout: speaker
+#   - scope:
+#       path: ""
+#       type: rooms
+#     values:
+#       layout: room
 
 
 conference:
@@ -71,12 +72,12 @@ conference:
         relative_url: /call-for-papers/
       # - name: Accepted papers
       #   relative_url: /talks/
-      - name: Program
-        relative_url: /program/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
+      # - name: Program
+      #   relative_url: /program/
+      # - name: Speakers
+      #   relative_url: /speakers/
+      # - name: Location
+      #   relative_url: /location/
       - name: Committees
         relative_url: /committees/
 
@@ -129,30 +130,30 @@ conference:
   #     pause:     10  # in seconds
 
   # NOT WORKING - workaround: overriding these in assets/js/config.json
-  map:
-    # Initial map center point
-    home_coord: 41.14139, -8.61567
-    # home_coord: 41.14139469481724, -8.615670257312129
-    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-    # The following do match the Bootstrap design not too badly:
-    #   - Hydda.Full
-    #   - Thunderforest.Neighbourhood
-    #   - Esri.WorldTopoMap
-    map_provider: "OpenStreetMap.Mapnik"
-    default_zoom: 18
+  # map:
+  #   # Initial map center point
+  #   home_coord: 41.14139, -8.61567
+  #   # home_coord: 41.14139469481724, -8.615670257312129
+  #   # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+  #   # The following do match the Bootstrap design not too badly:
+  #   #   - Hydda.Full
+  #   #   - Thunderforest.Neighbourhood
+  #   #   - Esri.WorldTopoMap
+  #   map_provider: "OpenStreetMap.Mapnik"
+  #   default_zoom: 18
 
   talks:
     # Talk categories
     main_categories:
       - name: Invited Talks
         color: danger
-      - name: 'Session 1 (chair: Horst Schirmeier)'
+      - name: 'Session 1'
         color: success
-      - name: 'Session 2 (chair: Aleš Smrčka)'
+      - name: 'Session 2'
         color: warning
-      - name: 'Session 3 (chair: David Pereira)'
+      - name: 'Session 3'
         color: dark
-      - name: 'Session 4 (chair: Stefano Tonetta)'
+      - name: 'Session 4'
         color: info
       # - name: Regular papers
       #   color: success
