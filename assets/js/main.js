@@ -22,7 +22,7 @@
 // Conference
 window.conference = {
     config: {
-        baseurl: '/2023'
+        baseurl: '/2024'
     },
 
     ready: false,
