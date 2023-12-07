@@ -24,16 +24,16 @@ exclude:
   - vendor
 
 # Collections and their defaults
-# collections:
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:title/
-  # speakers:
-  #   output: true
-  #   permalink: /:collection/:title/
-  # rooms:
-  #   output: true
-  #   permalink: /:collection/:title/
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
 
 # defaults:
 #   - scope:
