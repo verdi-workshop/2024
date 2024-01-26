@@ -21,6 +21,9 @@ title: VERDI 2024
 The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. This workshop covers all aspects related to the dependability evaluation (with special focus on __safety__ and __security__) of safety-critical CPS using techniques such as fault/attack-injection, runtime verification, formal verification, semi-formal analysis, simulation, and testing. 
 
 
+## Previous edition
+
+ - [VERDI 2023](https://verdi-workshop.github.io/2023/), 27 June 2023, Porto, Portugal
 
 <!-- See publish.twitter.com, https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/profile-timeline -->
 <!-- <a class="twitter-timeline"  data-width="600" data-height="600" data-chrome="nofooter" dnt="true" href="https://twitter.com/verdi_workshop?ref_src=twsrc%5Etfw">Tweets by verdi_workshop</a> -->
