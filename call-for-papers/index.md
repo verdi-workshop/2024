@@ -4,14 +4,14 @@ title: "Call for Papers"
 ---
 
 
-<!-- 
-# Important dates (extended)
 
-  - Paper submission: __April 7__ ~~March 28~~ (AoE)
-  - Notification: __April 26__ ~~April 21~~ (AoE)
-  - Final version: May 5 (AoE)
+# Important dates (tentative)
 
- -->
+  - Paper submission: March 22 (AoE)
+  - Notification: April 12 (AoE)
+  - Final version: May 3 (AoE)
+
+
 <!-- # Invited Speakers
 
   - ...
