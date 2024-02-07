@@ -8,6 +8,8 @@ title: "Committees"
  - [Thomas Bauer](), Fraunhofer IESE, Germany
  - [Marie Farrell](), University of Manchester, United Kingdom
  - [Barbara Gallina](), Mälardalen University, Sweden
+ - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
+ - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
@@ -22,10 +24,8 @@ title: "Committees"
  - [Jose Luis de la Vara](http://www.delavara.es), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](), VORTEX-CoLab, Portugal
  - [Peter Folkesson](), RISE Research Institutes of Sweden, Sweden
- - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
  - [André Lourenço](https://www.linkedin.com/in/arlourenco/), CardioID, Portugal
- - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Maurizio Mongelli](https://publications.cnr.it/authors/maurizio.mongelli), CNR-IEIIT, Italy
  - [Nasser Nowdehi](), Volvo AB, Sweden
  - [Tomas Olovsson](https://research.chalmers.se/en/person/tomasol), Chalmers University of Technology, Sweden
