@@ -3,21 +3,23 @@ layout: post
 title: "Committees"
 ---
 
-# Program Committee
- - tbd
-
+# Program Committee (to be finalised)
 <!--
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
  - [Stylianos Basagiannis](), Collins Aerospace, Ireland
+-->
  - [Thomas Bauer](), Fraunhofer IESE, Germany
+<!--
  - [Marcello Cinque](), Universit di Napoli Federico II, Italy
  - [Jose Luis de la Vara](http://www.delavara.es), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](), VORTEX-CoLab, Portugal
  - [Marie Farrell](), University of Manchester, United Kingdom
  - [Peter Folkesson](), RISE Research Institutes of Sweden, Sweden
+--> 
  - [Barbara Gallina](), Mälardalen University, Sweden
+<!--
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
  - [André Lourenço](https://www.linkedin.com/in/arlourenco/), CardioID, Portugal
@@ -31,7 +33,9 @@ title: "Committees"
  - [Peter Popov](http://www.csr.city.ac.uk/staff/popov/), City University, United Kingdom
  - [Juan Carlos Ruiz](), Universitat Politècnica de València, Spain
  - [Horst Schirmeier](https://tu-dresden.de/ing/informatik/sya/professur-fuer-betriebssysteme/), TU Dresden, Germany
+-->
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
+<!--
  - [Aleš Smrčka](https://scholar.google.com/citations?user=2z7fFiYAAAAJ), Brno University of Technology, Czech Republic
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
@@ -39,6 +43,7 @@ title: "Committees"
  - [Martin Törngren](https://www.kth.se/profile/martint/), KTH Royal Institute of Technology, Sweden
  - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
  --> 
+ - ...
  
  <!-- - [Name](...), Affiliation, Country -->
 
