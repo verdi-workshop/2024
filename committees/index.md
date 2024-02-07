@@ -4,10 +4,12 @@ title: "Committees"
 ---
 
 # Program Committee (to be finalised)
+
  - [Thomas Bauer](), Fraunhofer IESE, Germany
  - [Barbara Gallina](), Mälardalen University, Sweden
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
  - ...
+
 <!--
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
