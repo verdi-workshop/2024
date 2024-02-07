@@ -61,11 +61,9 @@ available in IEEE Xplore.
 be prepared in LaTeX, adhering to the ... format and Guidelines. For
 further information please visit ...
  -->
-<!-- 
-Please use the EasyChair link below to submit your paper, selecting the track allocated to VERDI 2023 of the DSN 2023 conference:
+Please use the EasyChair link below to submit your paper, and contact us if there is any problem:
   
-- [https://easychair.org/conferences/?conf=dsn2023]( https://easychair.org/conferences/?conf=dsn2023){:target="_blank"}
- -->
+- [https://easychair.org/conferences/?conf=verdi2024](https://easychair.org/conferences/?conf=verdi2024){:target="_blank"}
 
 All submissions should be made in PDF and must adhere to the IEEE Computer Society 8.5"x11" two-column camera-ready format (using a 10-point font on 12- point single-spaced leading). Templates are available at [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}.
 
