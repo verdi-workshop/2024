@@ -6,6 +6,7 @@ title: "Committees"
 # Program Committee (to be finalised)
 
  - [Thomas Bauer](), Fraunhofer IESE, Germany
+ - [Marie Farrell](), University of Manchester, United Kingdom
  - [Barbara Gallina](), Mälardalen University, Sweden
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
@@ -20,7 +21,6 @@ title: "Committees"
  - [Marcello Cinque](), Universit di Napoli Federico II, Italy
  - [Jose Luis de la Vara](http://www.delavara.es), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](), VORTEX-CoLab, Portugal
- - [Marie Farrell](), University of Manchester, United Kingdom
  - [Peter Folkesson](), RISE Research Institutes of Sweden, Sweden
  - [Guillaume Hiet](https://guillaume.hiet.fr), INRIA, France
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
