@@ -72,3 +72,7 @@ Reviewing is single-blind. The names and affiliations of authors must appear in 
 <!-- All submissions in categories __A__ and __B__ must be original, unpublished,
 and not submitted concurrently for publication elsewhere...
  -->
+
+
+Edit the content of this page [here](https://github.com/verdi-workshop/2024/blob/main/call-for-papers/index.md).
+{: .editNote}

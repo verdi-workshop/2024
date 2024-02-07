@@ -133,6 +133,24 @@ h1, h2, h3, h4, h5, h6 {
   display: grid;
 }
 
+.editNote {
+  color: #999;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-top: 4rem;
+  margin-bottom: -3rem;
+}
+.editNote>a {
+  color: #999;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-top: 4rem;
+  margin-bottom: -3rem;
+  text-decoration: underline;
+}
+.editNote>a:visited { color: #999; }
+.editNote>a:hover { color: #666666; font-weight: 600; }
+
 .navbar {
   padding-top: 0rem;
   margin-top: -8pt;
