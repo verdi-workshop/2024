@@ -7,7 +7,9 @@ title: "Committees"
 
  - [Thomas Bauer](), Fraunhofer IESE, Germany
  - [Barbara Gallina](), Mälardalen University, Sweden
+ - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
+ - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - ...
 
 <!--
@@ -34,7 +36,6 @@ title: "Committees"
  - [Juan Carlos Ruiz](), Universitat Politècnica de València, Spain
  - [Horst Schirmeier](https://tu-dresden.de/ing/informatik/sya/professur-fuer-betriebssysteme/), TU Dresden, Germany
  - [Aleš Smrčka](https://scholar.google.com/citations?user=2z7fFiYAAAAJ), Brno University of Technology, Czech Republic
- - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
  - [Stefano Tonetta](http://es.fbk.eu/people/tonetta), FBK-ICT, Italy
  - [Martin Törngren](https://www.kth.se/profile/martint/), KTH Royal Institute of Technology, Sweden
