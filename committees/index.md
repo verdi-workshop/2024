@@ -15,7 +15,7 @@ title: "Committees"
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Tech, USA
- - ...
+ - ... 
 
 <!--
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
