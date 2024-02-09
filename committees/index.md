@@ -16,7 +16,13 @@ title: "Committees"
  - [Carolyn Talcott](), SRI  International, USA
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Tech, USA
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
- - [Paolo Lollini](), University of Florence, Italy
+ - [Paolo Lollini](http://rcl.dsi.unifi.it/people/lollini), University of Florence, Italy
+ - [Antonio Pecchia](http://wpage.unina.it/antonio.pecchia/web/Home.html), University of Naples Federico II (UNINA), Italy
+ - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
+ - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
+ - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
+ - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
+ - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - ... 
 
 <!--
