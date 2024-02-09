@@ -14,7 +14,7 @@ title: "Committees"
  - [Paolo Lollini](http://rcl.dsi.unifi.it/people/lollini), University of Florence, Italy
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
  - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
- - [Antonio Pecchia](http://wpage.unina.it/antonio.pecchia/web/Home.html), University of Naples Federico II (UNINA), Italy
+ - [Antonio Pecchia](), University of Sannio at Benevento, Italy
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
