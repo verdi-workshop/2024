@@ -7,6 +7,7 @@ title: "Committees"
 
 
  - [Thomas Bauer](), Fraunhofer IESE, Germany
+ - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
  - [Marie Farrell](), University of Manchester, United Kingdom
@@ -24,11 +25,11 @@ title: "Committees"
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
+ - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
  - ... 
 
 <!--
  - [Joseba Andoni Agirre](), Universidad Mondragon, Spain
- - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
  - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
  - [Stylianos Basagiannis](), Collins Aerospace, Ireland
  - [André De Matos Pedro](), VORTEX-CoLab, Portugal
@@ -41,7 +42,6 @@ title: "Committees"
  - [Peter Popov](http://www.csr.city.ac.uk/staff/popov/), City University, United Kingdom
  - [Stefano Tonetta](http://es.fbk.eu/people/tonetta), FBK-ICT, Italy
  - [Martin Törngren](https://www.kth.se/profile/martint/), KTH Royal Institute of Technology, Sweden
- - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
  --> 
 
 
