@@ -20,6 +20,7 @@ title: "Committees"
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
  - [Antonio Pecchia](https://ultraviolet.ding.unisannio.it/apecchia/), University of Sannio, Italy
+ - [Peter Popov](https://www.city.ac.uk/about/people/academics/peter-popov), City University, United Kingdom
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
  - [Christoph Schmittner](http://www.ait.ac.at/), Austrian Institute of Technology, Austria
