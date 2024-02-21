@@ -17,6 +17,7 @@ title: "Committees"
  - [Paolo Lollini](http://rcl.dsi.unifi.it/aboutus/paolo.php), University of  Firenze, Italy
  - [Jan Tobias Mühlberg](https://muehlber.github.io/),  Université Libre de Bruxelles, Belgium
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/people/rosemary-monahan), Maynooth University, Ireland
+ - [Nasser Nowdehi](), Volvo AB, Sweden
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
  - [Antonio Pecchia](https://ultraviolet.ding.unisannio.it/apecchia/), University of Sannio, Italy
