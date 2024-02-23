@@ -22,6 +22,7 @@ title: "Committees"
  - [Peter Ölveczky](http://folk.uio.no/peterol), University of Oslo, Norway
  - [Karthik Pattabiraman](https://ece.ubc.ca/karthik-pattabiraman/), University of British Columbia (UBC), Canada
  - [Antonio Pecchia](https://ultraviolet.ding.unisannio.it/apecchia/), University of Sannio, Italy
+ - [André De Matos Pedro](), VORTEX-CoLab, Portugal
  - [Peter Popov](https://www.city.ac.uk/about/people/academics/peter-popov), City University, United Kingdom
  - [Juan Carlos Ruiz](https://www.upv.es/ficha-personal/JUARUIGA), Technical University of Valencia, Spain
  - [Horst Schirmeier](https://ess.cs.tu-dortmund.de/Staff/hsc/), TU Dresden, Germany
@@ -29,6 +30,7 @@ title: "Committees"
  - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
+ - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
  - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
  - ... 
