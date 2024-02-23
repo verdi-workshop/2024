@@ -8,13 +8,7 @@ title: "Committees"
 
  - [Thomas Bauer](), Fraunhofer IESE, Germany
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
-<<<<<<< HEAD
- - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
-||||||| c091c53
-=======
  - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
->>>>>>> da628e6a89815d011630cbdb35331cd776b3de22
- - [Stelios Basagiannis](), Collins Aerospace, Ireland
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
  - [André De Matos Pedro](), VORTEX-CoLab, Portugal
