@@ -55,6 +55,8 @@ This event is partly supported by the AGRARSENSE project that has received fundi
 <!-- {:class="thanks"}
 Disclaimer: the ECSEL JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.
  -->
+{:class="thanks"}
+Disclaimer: The Chips JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.
 
 <!-- {:class="thanks"}
 Photo by [Daniel Seßler](https://unsplash.com/@danielsessler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/porto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
