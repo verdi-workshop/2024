@@ -31,30 +31,16 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 ## Support
 
 {:style="text-align:center;"}
-<!-- [![logo](assets/img/logo-VALU3S.png "logo")](https://valu3s.eu/){:target="blank"} -->
-<!-- [![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"} -->
-<!-- [![logo](assets/img/logo-ECSEL.png "logoSmall")](https://www.kdt-ju.europa.eu/){:target="blank"} -->
 [![logo](assets/img/AgrarsenseColor-logo-nobackground.png "logo")](https://www.agrarsense.eu/){:target="blank"}
 [![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}
 [![logo](assets/img/CHIPS logo_RGB_full colour.png "logoSmall")](https://www.chips-ju.europa.eu/){:target="blank"}
 [![logo](assets/img/logo-RISE.png "logo")](https://www.ri.se/en/){:target="blank"}
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
-<!-- [![logo](assets/img/logo-FCT1-norte2020.png "logoSmall")](http://norte2020.pt/){:target="blank"} -->
 [![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
-<!-- [![logo](assets/img/logo-emsig.png "logo")](http://www.emsig.net/emsig.net/){:target="blank"} -->
-<!-- [![logo](assets/img/logo-FCT2-pt2020.png "logoSmall")](https://www.portugal2020.pt/Portal2020){:target="blank"} -->
 
-<!-- {:class="thanks"}
-This event has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 876852 (project VALU3S). The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Austria, Czech Republic, Germany, Ireland, Italy, Portugal, Spain, Sweden, Turkey.
--->
 {:class="thanks"}
 <small>This event is partly supported by the AGRARSENSE project that has received funding from the Chips Joint Undertaking (JU) under Grant Agreement No. 101095835 (project AGRARSENSE). The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Sweden, Spain, France, Ireland, Austria, the Netherlands, Italy, Poland, Germany, Norway, Finland, Latvia, Czechia, Türkiye.</small>
-<!-- This event is also supported by the Norte Portugal Regional Operational Programme (NORTE 2020) under the Portugal 2020 Partnership Agreement, through ERDF – European Regional Development Fund through the Operational Programme for Competitiveness and Internationalisation (project NORTE-01-0145-FEDER-028550), - national funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia (project PTDC/EEI-COM/28550/2017). -->
 
-
-<!-- {:class="thanks"}
-Disclaimer: the ECSEL JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.
- -->
 {:class="thanks"}
 <small>Disclaimer: The Chips JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.</small>
 
