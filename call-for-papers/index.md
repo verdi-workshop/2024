@@ -25,6 +25,8 @@ A key property that CPS are expected to exhibit is that of dependability, that i
 
 The VERDI workshop aims at serving as a discussion forum focused on the area of V&V as a means to guarantee dependability of complex, potentially automated/autonomous CPS. 
 
+The first edition of the workshop was supported by the ECSEL Joint Undertaking [VALU3S project](https://valu3s.eu/), which ended in July 2023. This edition of the workshop is supported by the EU-funded [AGRARSENSE project](https://www.agrarsense.eu/), a key initiative under the Chips Joint Undertaking, takes agricultural and forestry related productivity to the next level. The consortium will develop state-of-the-art technologies in electronic components and systems for future needs, building European resilience in critical sectors and strongly contribute to sustainability targets and climate change mitigation. In this collaborative effort, small, mid-sized, and large enterprises alongside Research and Technology Organizations (RTOs) will focus on developing innovative solutions in sensors, software, connectivity, and data management, with a keen emphasis on safety, security, and reliability, as well as advancing autonomous movement and robotics platforms.
+
 
 # Topics
 

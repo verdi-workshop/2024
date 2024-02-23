@@ -8,7 +8,12 @@ title: "Committees"
 
  - [Thomas Bauer](), Fraunhofer IESE, Germany
  - [José Bacelar Almeida](http://www.di.uminho.pt/~jba), University of Minho, Portugal
+<<<<<<< HEAD
  - [Raul Barbosa](http://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
+||||||| c091c53
+=======
+ - [Raul Barbosa](https://eden.dei.uc.pt/~rbarbosa/), University of Coimbra, Portugal
+>>>>>>> da628e6a89815d011630cbdb35331cd776b3de22
  - [Stelios Basagiannis](), Collins Aerospace, Ireland
  - [Marcello Cinque](http://wpage.unina.it/macinque/), University of Naples Federico II (UNINA), Italy
  - [Jose Luis de la Vara](https://sites.google.com/site/jldelavara/), University of Castilla-La Mancha, Spain
@@ -30,6 +35,7 @@ title: "Committees"
  - [Aleš Smrčka](https://www.fit.vut.cz/person/smrcka/.en), Brno University of Technology, Czech Republic
  - [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), Høgskulen på Vestlandet, Norway
  - [Carolyn Talcott](), SRI  International, USA
+ - [Stefano Tonetta](https://fm.fbk.eu/author/stefano-tonetta.html), FBK-ICT, Italy
  - [Saman Zonouz](https://www.cc.gatech.edu/people/saman-zonouz), Georgia Institute of Technology, USA
  - [Stefano Tonetta](http://es.fbk.eu/people/tonetta), FBK-ICT, Italy
  - [Ahmet Yazici](), Eskisehir Osmangazi University, Turkey
