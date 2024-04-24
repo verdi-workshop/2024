@@ -9,7 +9,7 @@ title: "Call for Papers"
 
   - Paper submission: __Apr 2__ ~~March 22~~ (AoE)
   - Notification: __Apr 25__ ~~April 12~~ (AoE)
-  - Final version: May 3 (AoE)
+  - Final version: May 1 (AoE)
 
 
 <!-- # Invited Speakers
