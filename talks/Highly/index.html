@@ -5,8 +5,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Lunch - VERDI 2024</title>
-  <meta name="description" content="Talk by  at VERDI 2024" />
+  <title>Highly Comprehensive and Efficient Memory Safety Enforcement with Pointer Tagging - VERDI 2024</title>
+  <meta name="description" content="Talk by Xiaolei Wang, Bin Zhang and Chaojing Tang at VERDI 2024" />
 
   <meta name="theme-color" content="00793fff">
   <link rel="shortcut icon" type="image/png" href="/2024/assets/icons/favicon.png">
@@ -18,14 +18,14 @@
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:image" content="https://verdi-workshop.github.io/2024/assets/images/twitter_preview.png" />
-  <meta name="twitter:title" content="Lunch" />
-  <meta name="twitter:description" content="Talk by  at VERDI 2024" />
+  <meta name="twitter:title" content="Highly Comprehensive and Efficient Memory Safety Enforcement with Pointer Tagging" />
+  <meta name="twitter:description" content="Talk by Xiaolei Wang, Bin Zhang and Chaojing Tang at VERDI 2024" />
 
   <meta property="og:site_name" content="VERDI 2024" />
   <meta property="og:image" content="https://verdi-workshop.github.io/2024/assets/images/facebook_preview.png" />
-  <meta property="og:url" content="https://verdi-workshop.github.io/2024/talks/lunch/" />
-  <meta property="og:title" content="Lunch" />
-  <meta property="og:description" content="Talk by  at VERDI 2024" />
+  <meta property="og:url" content="https://verdi-workshop.github.io/2024/talks/Highly/" />
+  <meta property="og:title" content="Highly Comprehensive and Efficient Memory Safety Enforcement with Pointer Tagging" />
+  <meta property="og:description" content="Talk by Xiaolei Wang, Bin Zhang and Chaojing Tang at VERDI 2024" />
   <meta property="og:type" content="website" />
 
   <link rel="stylesheet" href="/2024/assets/css/main.css?t=1714749146" />
@@ -76,23 +76,27 @@
   <main class="container"><div class="d-flex flex-md-row flex-column container-fluid mb-2 p-0">
     <div class="h6 mt-2 mb-0 mr-1 pr-1 pb-1">
       
-      <span class="d-block d-sm-inline p-1 pl-2 pr-2 border-soft- bg-soft- font-weight-normal">
-        
+      <span class="d-block d-sm-inline p-1 pl-2 pr-2 border-soft-success bg-soft-success font-weight-normal">
+        Regular papers
       </span>
     </div>
 
     
   </div>
 
-  <h1 class="font-weight-light text-break">Lunch</h1>
+  <h1 class="font-weight-light text-break">Highly Comprehensive and Efficient Memory Safety Enforcement with Pointer Tagging</h1>
 
   <p class="mb-3 font-weight-light">
-    
+    <a class="text-reset" href="/2024/speakers/xiaoleiwang/">Xiaolei Wang</a>, <a class="text-reset" href="/2024/speakers/binzhang/">Bin Zhang</a>, <a class="text-reset" href="/2024/speakers/chaojingtang/">Chaojing Tang</a>
   </p>
 
   <div class="mb-3 p-0">
     
-        
+        <span class="d-none d-sm-inline">at</span> <a href="/2024/program" class="badge badge-light font-weight-normal text-left ">
+  <i class="far fa-clock"></i>&nbsp;9:00</a><span class="d-none d-sm-inline ml-1">in</span> <a href="/2024" class="badge badge-light font-weight-normal"><i class="far fa-square"></i>&nbsp;</a><span class="d-none d-sm-inline ml-1">for</span> <span class="badge badge-light font-weight-normal text-left">
+  <i class="fas fa-stopwatch"></i>&nbsp;5min
+</span>
+
         
         
         
@@ -102,7 +106,10 @@
     
   </div>
 
-  <p>Lunch break of VERDI 2023.</p>
+  <p>Memory safety issues greatly affect the dependability of all software systems. As such, many sanitizers have been proposed to enhance memory safety at the development or deployment phase. However, existing solutions still face many practical challenges, including significant performance overhead, low compatibility with legacy code, and non-comprehensive protection for various program objects and sub-objects.</p>
+
+<p>In this paper, we propose CECSan, an integrated highly Compatible, Efficient and Comprehensive compiler-based Sanitizer to detect spatial and temporal memory errors in C/C++ programs. CECSan enforces full memory safety using a integration of pointer tagging, compact metadata table, compiler instrumentation and optimzation. The pointer tagging encodes object metadata index within native pointer itself, while instrumentation adds metadata retrival and safety checks for all memory access. Specifically, CECSan advantages over previous sanitizers by simultaneously: 1) supporting memory safety guarantee on sub-object granularity; 2) significantly reducing performance overhead with various optimization strategies. 3) removing the need of a customized memory allocator and avoiding object memory layout changes to improve compatibility. Evaluations on our prototype show that, CECSan outperforms known sanitizers by achieving a bug detection rate of 100% on the Juliet Test Suite. Additionally, CECSan significantly reduces memory consumption while maintaining an acceptable level of runtime overhead.</p>
+
 
 
   

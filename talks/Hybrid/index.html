@@ -5,8 +5,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Lunch - VERDI 2024</title>
-  <meta name="description" content="Talk by  at VERDI 2024" />
+  <title>Hybrid Hardware/Software Detection of Multi-Bit Upsets in Memory - VERDI 2024</title>
+  <meta name="description" content="Talk by Robin Thunig, Christoph Borchert, Urs Kober and Horst Schirmeier at VERDI 2024" />
 
   <meta name="theme-color" content="00793fff">
   <link rel="shortcut icon" type="image/png" href="/2024/assets/icons/favicon.png">
@@ -18,14 +18,14 @@
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:image" content="https://verdi-workshop.github.io/2024/assets/images/twitter_preview.png" />
-  <meta name="twitter:title" content="Lunch" />
-  <meta name="twitter:description" content="Talk by  at VERDI 2024" />
+  <meta name="twitter:title" content="Hybrid Hardware/Software Detection of Multi-Bit Upsets in Memory" />
+  <meta name="twitter:description" content="Talk by Robin Thunig, Christoph Borchert, Urs Kober and Horst Schirmeier at VERDI 2024" />
 
   <meta property="og:site_name" content="VERDI 2024" />
   <meta property="og:image" content="https://verdi-workshop.github.io/2024/assets/images/facebook_preview.png" />
-  <meta property="og:url" content="https://verdi-workshop.github.io/2024/talks/lunch/" />
-  <meta property="og:title" content="Lunch" />
-  <meta property="og:description" content="Talk by  at VERDI 2024" />
+  <meta property="og:url" content="https://verdi-workshop.github.io/2024/talks/Hybrid/" />
+  <meta property="og:title" content="Hybrid Hardware/Software Detection of Multi-Bit Upsets in Memory" />
+  <meta property="og:description" content="Talk by Robin Thunig, Christoph Borchert, Urs Kober and Horst Schirmeier at VERDI 2024" />
   <meta property="og:type" content="website" />
 
   <link rel="stylesheet" href="/2024/assets/css/main.css?t=1714749146" />
@@ -76,18 +76,18 @@
   <main class="container"><div class="d-flex flex-md-row flex-column container-fluid mb-2 p-0">
     <div class="h6 mt-2 mb-0 mr-1 pr-1 pb-1">
       
-      <span class="d-block d-sm-inline p-1 pl-2 pr-2 border-soft- bg-soft- font-weight-normal">
-        
+      <span class="d-block d-sm-inline p-1 pl-2 pr-2 border-soft-warning bg-soft-warning font-weight-normal">
+        Short papers
       </span>
     </div>
 
     
   </div>
 
-  <h1 class="font-weight-light text-break">Lunch</h1>
+  <h1 class="font-weight-light text-break">Hybrid Hardware/Software Detection of Multi-Bit Upsets in Memory</h1>
 
   <p class="mb-3 font-weight-light">
-    
+    <a class="text-reset" href="/2024/speakers/robinthunig/">Robin Thunig</a>, <a class="text-reset" href="/2024/speakers/christophborchert/">Christoph Borchert</a>, <a class="text-reset" href="/2024/speakers/urskober/">Urs Kober</a>, <a class="text-reset" href="/2024/speakers/horstschirmeier/">Horst Schirmeier</a>
   </p>
 
   <div class="mb-3 p-0">
@@ -95,14 +95,20 @@
         
         
         
-        
+        <span class="d-none d-sm-inline">at</span> <a href="/2024/program" class="badge badge-light font-weight-normal text-left ">
+  <i class="far fa-clock"></i>&nbsp;9:00</a><span class="d-none d-sm-inline ml-1">in</span> <a href="/2024" class="badge badge-light font-weight-normal"><i class="far fa-square"></i>&nbsp;</a><span class="d-none d-sm-inline ml-1">for</span> <span class="badge badge-light font-weight-normal text-left">
+  <i class="fas fa-stopwatch"></i>&nbsp;5min
+</span>
+
         
         
       
     
   </div>
 
-  <p>Lunch break of VERDI 2023.</p>
+  <p>Bit flips in main memory can be caused by a multitude of environmental effects, such as heat or radiation, as well as by malicious actors exploiting Rowhammer-style hardware vulnerabilities. The industry-standard countermeasure is SEC-DED ECC memory, which can reliably correct single- and detect double-bit flips in a data word. However, larger multi-bit upsets (MBUs) regularly occur in real-world systems, and – as shown by an analysis in this paper – have a high probability of being miscorrected. Software-implemented hardware fault tolerance (SIHFT) mechanisms can flexibly handle MBUs, but incur significant runtime costs.
+In this paper, we propose to combine hardware ECC as a low-cost detector and SIHFT as a handler for miscorrected MBUs that recategorizes them as uncorrectable. A preliminary evaluation on the basis of differential checksums demonstrates a miscorrected-SDC reduction of 98 % at a very moderate execution-time overhead.</p>
+
 
 
   
