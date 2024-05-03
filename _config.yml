@@ -35,22 +35,22 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-# defaults:
-#   - scope:
-#       path: ""
-#       type: talks
-#     values:
-#       layout: talk
-#   - scope:
-#       path: ""
-#       type: speakers
-#     values:
-#       layout: speaker
-#   - scope:
-#       path: ""
-#       type: rooms
-#     values:
-#       layout: room
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
 
 
 conference:
@@ -70,12 +70,12 @@ conference:
     links:
       - name: Call for Papers
         relative_url: /call-for-papers/
-      # - name: Accepted papers
-      #   relative_url: /talks/
+      - name: Accepted papers
+        relative_url: /talks/
       # - name: Program
       #   relative_url: /program/
-      # - name: Speakers
-      #   relative_url: /speakers/
+      - name: Speakers
+        relative_url: /speakers/
       # - name: Location
       #   relative_url: /location/
       - name: Committees
@@ -147,22 +147,22 @@ conference:
     main_categories:
       - name: Invited Talks
         color: danger
-      - name: 'Session 1'
-        color: success
-      - name: 'Session 2'
-        color: warning
-      - name: 'Session 3'
-        color: dark
-      - name: 'Session 4'
-        color: info
-      # - name: Regular papers
+      # - name: 'Session 1'
       #   color: success
-      # - name: Short papers
+      # - name: 'Session 2'
       #   color: warning
+      # - name: 'Session 3'
+      #   color: dark
+      # - name: 'Session 4'
+      #   color: info
+      - name: Regular papers
+        color: success
+      - name: Short papers
+        color: warning
       # - name: Modelling & Verification
       #   color: success
-      - name: Organisation
-        color: light
+      # - name: Organisation
+        # color: light
         # color: light
       # Colors: info, warning, danger, success
 

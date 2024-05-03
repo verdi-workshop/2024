@@ -3,18 +3,18 @@ layout: home
 title: VERDI 2024
 ---
 
-<!-- 
+
 ## Important dates
 
-  - Paper submission: tbd (AoE)
-  - Notification: _tbd (AoE)
-  - Final version: tbd (AoE)
+  - Paper submission: Apr 2  (AoE)
+  - Notification: Apr 25  (AoE)
+  - Final version: May 1 (AoE)
 
 
 ## Invited speakers
 
-  - [IS1](...), affiliation1
- -->
+  - [Juan Carlos Ruiz](http://www.upv.es/ficha-personal/juaruiga), Universitat Politècnica de València, Spain
+
 
 ## About VERDI
 

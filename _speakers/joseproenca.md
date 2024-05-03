@@ -7,5 +7,5 @@ links:
     absolute_url: https://jose.proenca.org
 ---
 
-CISTER-ISEP, Polytechnic Institute of Porto, Portugal.
+University of Porto, Portugal.
 
