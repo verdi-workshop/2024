@@ -4,6 +4,7 @@ speakers:
   - Xiaolei Wang
   - Bin Zhang
   - Chaojing Tang
+  - Long Zhang
 room: 'DSN2024'
 categories:
   - Regular papers
