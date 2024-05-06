@@ -1,5 +1,5 @@
 ---
-name: 'Welcome to VERDI 2023'
+name: 'Welcome to VERDI 2024'
 speakers:
   - David Pereira
   - José Proença
@@ -9,4 +9,4 @@ categories:
 ---
 
 
-Welcome session of VERDI 2023, presenting insights over the workshop and the schedule.
+Welcome session of VERDI 2024, presenting insights over the workshop and the schedule.

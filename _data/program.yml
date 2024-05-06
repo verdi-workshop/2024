@@ -3,30 +3,36 @@
 # For each room, add a file in `_rooms/`
 days:
   - name: Monday, 24 Jun
-    abbr: Fri
+    abbr: Mon
     date: 2024-06-24
     rooms:
       # - name: Palácio da Bolsa
       - name: Room
         talks:
-          # - name: 'Welcome to VERDI 2024'
-          #   time_start: '09:00'
-          #   time_end: '09:05'
-          - name: 'On improving the robustness of convolutional neural networks using in-parameter zero-space error correction codes'
+          - name: 'Welcome to VERDI 2024'
             time_start: '09:00'
-            time_end: '09:05'
-          - name: 'Highly Comprehensive and Efficient Memory Safety Enforcement with Pointer Tagging'
-            time_start: '09:00'
-            time_end: '09:05'
-          - name: 'Enhancing Continuous Risk Assessment: The Role of Safety Engineers in Early Hazard Identification'
-            time_start: '09:00'
-            time_end: '09:05'
-          - name: 'Virtual Evaluation of Dependability Attributes for Mission-Critical Cyber-Physical Systems'
-            time_start: '09:00'
-            time_end: '09:05'
+            time_end: '09:15'
+          - name: 'On Improving the Robustness Of Convolutional Neural Networks Using In-Parameter Zero-Space Error Correction Codes'
+            time_start: '09:15'
+            time_end: '10:30'
+          - name: 'Coffee break'  
+            time_start: '10:30'
+            time_end: '11:00'            
           - name: 'Hybrid Hardware/Software Detection of Multi-Bit Upsets in Memory'
-            time_start: '09:00'
-            time_end: '09:05'
+            time_start: '11:00'
+            time_end: '11:30'
+          - name: 'Highly Comprehensive and Efficient Memory Safety Enforcement with Pointer Tagging'
+            time_start: '11:30'
+            time_end: '12:00'
+          - name: 'Enhancing Continuous Risk Assessment: The Role of Safety Engineers in Early Hazard Identification'
+            time_start: '12:00'
+            time_end: '12:30'
+          - name: 'Lunch'  
+            time_start: '12:30'
+            time_end: '14:00'            
           - name: 'Cybersecurity Pathways towards CE-Certified Autonomous Forestry Machines'
-            time_start: '09:00'
-            time_end: '09:05'
+            time_start: '14:00'
+            time_end: '14:30'
+          - name: 'Virtual Evaluation of Dependability Attributes for Mission-Critical Cyber-Physical Systems'
+            time_start: '14:30'
+            time_end: '15:00'

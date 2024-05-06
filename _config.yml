@@ -161,9 +161,9 @@ conference:
         color: warning
       # - name: Modelling & Verification
       #   color: success
-      # - name: Organisation
-        # color: light
-        # color: light
+      - name: Organisation
+        color: light
+      # color: light
       # Colors: info, warning, danger, success
 
     # Hide icons on talk overview page
@@ -190,7 +190,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 5 # in minutes
+    time_steps: 15 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true

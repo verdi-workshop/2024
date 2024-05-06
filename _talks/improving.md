@@ -1,5 +1,5 @@
 ---
-name: 'On improving the robustness of convolutional neural networks using in-parameter zero-space error correction codes'
+name: 'On Improving the Robustness Of Convolutional Neural Networks Using In-Parameter Zero-Space Error Correction Codes'
 categories:
   - Invited Talks
 speakers:
