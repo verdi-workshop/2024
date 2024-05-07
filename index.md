@@ -36,10 +36,13 @@ The VERDI workshop aims at serving as a discussion forum focused on the area of 
 [![logo](assets/img/CHIPS logo_RGB_full colour.png "logoSmall")](https://www.chips-ju.europa.eu/){:target="blank"}
 [![logo](assets/img/logo-RISE.png "logo")](https://www.ri.se/en/){:target="blank"}
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
+[![logo](assets/img/logo-route25.png "logo")](https://www.it.pt/Projects/Index/4824){:target="blank"}
 [![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
 
 {:class="thanks"}
-<small>This event is partly supported by the AGRARSENSE project that has received funding from the Chips Joint Undertaking (JU) under Grant Agreement No. 101095835 (project AGRARSENSE). The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Sweden, Spain, France, Ireland, Austria, the Netherlands, Italy, Poland, Germany, Norway, Finland, Latvia, Czechia, Türkiye.</small>
+<small>This event is partly supported by the AGRARSENSE project that has received funding from the Chips Joint Undertaking (JU) under Grant Agreement No. 101095835 (project AGRARSENSE). The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Sweden, Spain, France, Ireland, Austria, the Netherlands, Italy, Poland, Germany, Norway, Finland, Latvia, Czechia, Türkiye.
+VERDI is also partially supported by the Route 25 project (ref. TRB/2022/00061 - C645463824-00000063) funded by NextGenerationEU, within the Recovery and Resilience Plan (RRP).
+</small>
 
 {:class="thanks"}
 <small>Disclaimer: The Chips JU and the European Commission are not responsible for the content on this website or any use that may be made of the information it contains.</small>
