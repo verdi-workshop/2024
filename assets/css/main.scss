@@ -98,6 +98,10 @@ img[title=logoSmall] {
   max-height: 70px;
   padding: 10px;
 }
+.speakers-hover>img {
+  border-radius: 10pt;
+}
+
 
 .thanks {
   text-align:center;
@@ -115,9 +119,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .speakers-hover {
     position: absolute;
-    width: 100%;
     height: auto;
-    opacity: 0;
+    opacity: 1;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
