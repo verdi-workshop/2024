@@ -72,8 +72,8 @@ conference:
         relative_url: /call-for-papers/
       - name: Accepted papers
         relative_url: /talks/
-      # - name: Program
-      #   relative_url: /program/
+      - name: Program
+        relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
       # - name: Location
