@@ -7,7 +7,7 @@ days:
     date: 2024-06-24
     rooms:
       # - name: Palácio da Bolsa
-      - name: Room
+      - name: Connaught
         talks:
           - name: 'Welcome to VERDI 2024'
             time_start: '09:00'
