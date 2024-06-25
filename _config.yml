@@ -70,8 +70,8 @@ conference:
     links:
       - name: Call for Papers
         relative_url: /call-for-papers/
-      - name: Accepted papers
-        relative_url: /talks/
+      # - name: Accepted papers
+      #   relative_url: /talks/
       - name: Program
         relative_url: /program/
       - name: Speakers

@@ -4,6 +4,9 @@ categories:
   - Invited Talks
 speakers:
   - Juan Carlos Ruiz
+links:
+  - name: Slides of the Keynote
+    relative_url: /VERDI_Keynote.pdf
 ---
 
 

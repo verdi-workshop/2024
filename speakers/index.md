@@ -29,6 +29,10 @@ title: ""
     
     <p> In this talk, we will see how to exploit the assessment information provided by fault injection experiments to increase the robustness of a CNN against the occurrence of multiple bitflips by using error correction codes (ECCs). The approach will be exemplified using a floating point-based CNN that is prototyped on a programmable logic device. Then, we will study how the approach can be deployed without retraining the considered CNN, using well-known and proven ECCs and at an in-memory and zero-space cost.
     </p>
+
+    <ul>
+        <li> <a target="_blank" href="../VERDI_Keynote.pdf">Slides of the Keynote</a></li>
+    </ul>
     
     </div>
 </div>

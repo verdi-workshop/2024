@@ -5,6 +5,8 @@ last_name: Ruiz
 links:
   - name: Personal homepage
     absolute_url: http://www.upv.es/ficha-personal/juaruiga
+  - name: Slides of the Keynote
+    relative_url: /VERDI_Keynote.pdf
 ---
 
 
