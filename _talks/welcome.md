@@ -8,7 +8,7 @@ categories:
   - Organisation
 links:
   - name: Welcome slides
-    relative_url: /VERDI_welcome.pdf
+    relative_url: /VERDI_Welcome.pdf
 ---
 
 
