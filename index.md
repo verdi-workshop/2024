@@ -10,6 +10,9 @@ title: VERDI 2024
   - Notification: Apr 25  (AoE)
   - Final version: May 1 (AoE)
 
+## Proceedings
+
+ - Available at IEEE Xplore: [https://doi.org/10.1109/DSN-W60302.2024](https://doi.org/10.1109/DSN-W60302.2024).
 
 ## Invited speakers
 
